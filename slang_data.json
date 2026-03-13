@@ -1,401 +1,435 @@
 {
+  "Ariyalur": {
+    "Vanduirainga": {
+      "tamil": "வந்துராங்க",
+      "english": "They are coming",
+      "description": "Ariyalur/Perambalur rural style"
+    },
+    "Poyirainga": {
+      "tamil": "போயிட்டாங்க",
+      "english": "They have gone",
+      "description": "Typical northern Delta influence"
+    },
+    "Aammaa": {
+      "tamil": "ஆம்மா",
+      "english": "Yes (Respectful)",
+      "description": "Longer vowel elongation in Ariyalur"
+    },
+    "Yenna Aiyya": {
+      "tamil": "என்ன ஐயா",
+      "english": "What's up Sir?",
+      "description": "Delta-influenced respect"
+    },
+    "Vanthuittainga": {
+      "tamil": "வந்துட்டாங்கா",
+      "english": "They have arrived",
+      "description": "Plural suffix 'inga' pronounced emphatically"
+    },
+    "Oram Po": {
+      "tamil": "ஓரம் போ",
+      "english": "Get aside",
+      "description": "Used commonly in street slang"
+    },
+    "Summa Thaa": {
+      "tamil": "சும்மா தா",
+      "english": "Just give",
+      "description": "Regional vowel shifts"
+    },
+    "Saapidrainga": {
+      "tamil": "சாப்டுறாங்க",
+      "english": "They are eating",
+      "description": "Common rural plural suffix"
+    },
+    "Pochinaa": {
+      "tamil": "போச்சினா",
+      "english": "If it is gone",
+      "description": "Conditional suffix pronunciation"
+    },
+    "Enna Paa": {
+      "tamil": "என்ன பா",
+      "english": "What man/son?",
+      "description": "General address for everyone"
+    },
+    "Innum Enna": {
+      "tamil": "இன்னும் என்ன",
+      "english": "What else?",
+      "description": "Common conversation filler"
+    },
+    "Macha": {
+      "tamil": "மச்சா",
+      "english": "Friend/Buddy",
+      "description": "Standard youth slang"
+    },
+    "Gethu Seirainga": {
+      "tamil": "கெத்து செய்றாங்க",
+      "english": "They are showing off",
+      "description": "Modern regional adaptation"
+    },
+    "Maanu": {
+      "tamil": "மானு",
+      "english": "Brother/Relative",
+      "description": "Rural relationship term"
+    },
+    "Pondainga": {
+      "tamil": "போண்டாங்க",
+      "english": "They went",
+      "description": "Standard rural plural"
+    },
+    "Irikirainga": {
+      "tamil": "இருக்குறாங்க",
+      "english": "They are there",
+      "description": "Common rural pronunciation of 'Irukkiraargal'"
+    },
+    "Ennappa": {
+      "tamil": "என்னப்பா",
+      "english": "What's up?",
+      "description": "Common greeting"
+    },
+    "Seringa": {
+      "tamil": "சரிங்க",
+      "english": "Alright (Respectful)",
+      "description": "Standard Delta-influenced respect"
+    },
+    "Aahaa": {
+      "tamil": "ஆஹா",
+      "english": "Wow/Oh",
+      "description": "Exclamation of surprise"
+    },
+    "Sera": {
+      "tamil": "சேர",
+      "english": "Okay/Right",
+      "description": "Shortened version of 'Sari'"
+    }
+  },
+  "Chengalpattu": {
+    "Vanthukkurainga": {
+      "tamil": "வந்துக்கிறாங்க",
+      "english": "They have come",
+      "description": "Chengalpattu/Kanchipuram rural style"
+    },
+    "Ponnainga": {
+      "tamil": "போனாங்க",
+      "english": "They went",
+      "description": "Rural North TN plural/respectful suffix"
+    },
+    "Yov Ennaya": {
+      "tamil": "யோவ் என்னய்யா",
+      "english": "Hey what's up man?",
+      "description": "Casual North TN opening"
+    },
+    "Enna Naa": {
+      "tamil": "என்ன நா",
+      "english": "What Brother?",
+      "description": "Shortened 'Anna' (respectful)"
+    },
+    "Sammandham": {
+      "tamil": "சம்பந்தம்",
+      "english": "Relationship/Matter",
+      "description": "Used to refer to family connections"
+    },
+    "Nalla Irreena": {
+      "tamil": "நல்லா இர்றீனா",
+      "english": "Are you well?",
+      "description": "Variant of 'Irukkeengala' in rural North TN"
+    },
+    "Vanthuttainga": {
+      "tamil": "வந்துட்டாங்க",
+      "english": "They arrived",
+      "description": "Distinct plural suffix 'inga'"
+    },
+    "Ponnaati": {
+      "tamil": "பொண்டாட்டி",
+      "english": "Wife",
+      "description": "Widely used in rural North TN"
+    },
+    "Maanu": {
+      "tamil": "மானு",
+      "english": "Come/Go (Respectful)",
+      "description": "Regional rural variant for person"
+    },
+    "Summa Irryaa": {
+      "tamil": "சும்மா இர்யா",
+      "english": "Just be quiet/Be still",
+      "description": "Common rural instruction"
+    },
+    "Sera": {
+      "tamil": "சேர",
+      "english": "Ready/Okay",
+      "description": "Short for 'Sari' in northern dialect"
+    },
+    "Kooa": {
+      "tamil": "கூற",
+      "english": "Tell",
+      "description": "Chengalpattu shortening of 'Kooru'"
+    },
+    "Kezhani": {
+      "tamil": "கெழனி",
+      "english": "Field/Farm",
+      "description": "Local term for agricultural land"
+    },
+    "Vandhaanuniku": {
+      "tamil": "வந்தானுனிக்கு",
+      "english": "When he came",
+      "description": "Specific temporal rural connector"
+    },
+    "Paanu": {
+      "tamil": "பாணு",
+      "english": "Go/Leave",
+      "description": "Shortened version of 'Po'"
+    },
+    "Irukiyaa": {
+      "tamil": "இருக்கியா",
+      "english": "Are you there?",
+      "description": "Casual check in northern dialect"
+    },
+    "Enna Machi": {
+      "tamil": "என்ன மச்சி",
+      "english": "What friend?",
+      "description": "Standard youth address"
+    },
+    "Yaaru Macha": {
+      "tamil": "யாரும் மச்சா",
+      "english": "Who friend?",
+      "description": "Standard informal check"
+    },
+    "Gethu Seira": {
+      "tamil": "கெத்து செய்ற",
+      "english": "Showing off",
+      "description": "Modern regional slang"
+    },
+    "Pondainga": {
+      "tamil": "போண்டாங்க",
+      "english": "They went (respectful)",
+      "description": "Distictive plural suffix"
+    }
+  },
   "Chennai": {
-    "machan": {
-      "tamil": "சென்னை தமிழ்: மச்சான்",
-      "english": "Chennai Tamil: buddy",
-      "description": "nan"
+    "Baadu": {
+      "tamil": "பாடு",
+      "english": "Friend/Buddy",
+      "description": "Common casual address in North Chennai"
     },
-    "da": {
-      "tamil": "சென்னை தமிழ்: தா",
-      "english": "Chennai Tamil: brother",
-      "description": "nan"
+    "Kasu Panam": {
+      "tamil": "காசு பணம்",
+      "english": "Money/Wealth",
+      "description": "Chennai slang for cash"
     },
-    "kettanunga": {
-      "tamil": "சென்னை தமிழ்: கெட்டனுங்க",
-      "english": "Chennai Tamil: guys",
-      "description": "nan"
-    },
-    "payale": {
-      "tamil": "சென்னை தமிழ்: பாயாளே",
-      "english": "Chennai Tamil: foolish guy",
-      "description": "nan"
-    },
-    "semma": {
-      "tamil": "சென்னை தமிழ்: செம்மா",
-      "english": "Chennai Tamil: great",
-      "description": "nan"
-    },
-    "thaan": {
-      "tamil": "சென்னை தமிழ்: தான்",
-      "english": "Chennai Tamil: yourself",
-      "description": "nan"
-    },
-    "koothu": {
-      "tamil": "சென்னை தமிழ்: கூத்து",
-      "english": "Chennai Tamil: drama",
-      "description": "nan"
-    },
-    "mogam": {
-      "tamil": "சென்னை தமிழ்: மோகம்",
-      "english": "Chennai Tamil: craze",
-      "description": "nan"
-    },
-    "appidi": {
-      "tamil": "சென்னை தமிழ்: அப்பிடி",
-      "english": "Chennai Tamil: like that",
-      "description": "nan"
-    },
-    "ennada": {
-      "tamil": "சென்னை தமிழ்: என்னாடா",
-      "english": "Chennai Tamil: what da",
-      "description": "nan"
-    },
-    "sariya": {
-      "tamil": "சென்னை தமிழ்: சரியா",
-      "english": "Chennai Tamil: okay",
-      "description": "nan"
-    },
-    "vandha": {
-      "tamil": "சென்னை தமிழ்: வந்தா",
-      "english": "Chennai Tamil: came",
-      "description": "nan"
-    },
-    "poi": {
-      "tamil": "சென்னை தமிழ்: பொய்",
-      "english": "Chennai Tamil: lie",
-      "description": "nan"
-    },
-    "thakali": {
-      "tamil": "சென்னை தமிழ்: தாக்கலி",
-      "english": "Chennai Tamil: slap/hit",
-      "description": "nan"
-    },
-    "vaanga": {
-      "tamil": "சென்னை தமிழ்: வாங்கா",
-      "english": "Chennai Tamil: come",
-      "description": "nan"
-    },
-    "poda": {
-      "tamil": "சென்னை தமிழ்: போடா",
-      "english": "Chennai Tamil: go away",
-      "description": "nan"
-    },
-    "sollu": {
-      "tamil": "சென்னை தமிழ்: சொல்லு",
-      "english": "Chennai Tamil: tell",
-      "description": "nan"
-    },
-    "unga": {
-      "tamil": "சென்னை தமிழ்: உங்க",
-      "english": "Chennai Tamil: your",
-      "description": "nan"
-    },
-    "enakku": {
-      "tamil": "சென்னை தமிழ்: எனக்கு",
-      "english": "Chennai Tamil: to me",
-      "description": "nan"
-    },
-    "avaruku": {
-      "tamil": "சென்னை தமிழ்: அவருக்கு",
-      "english": "Chennai Tamil: to him/her",
-      "description": "nan"
-    },
-    "mooditu": {
-      "tamil": "சென்னை தமிழ்: முடிச்சுட்டு",
-      "english": "Chennai Tamil: finished",
-      "description": "nan"
-    },
-    "sollittu": {
-      "tamil": "சென்னை தமிழ்: சொல்லிச்சுட்டு",
-      "english": "Chennai Tamil: told",
-      "description": "nan"
-    },
-    "chettai": {
-      "tamil": "சென்னை தமிழ்: செட்டை",
-      "english": "Chennai Tamil: disappointed",
-      "description": "nan"
-    },
-    "ayya": {
-      "tamil": "சென்னை தமிழ்: அய்யா",
-      "english": "Chennai Tamil: sir",
-      "description": "nan"
-    },
-    "tambi": {
-      "tamil": "சென்னை தமிழ்: தம்பி",
-      "english": "Chennai Tamil: brother",
-      "description": "nan"
-    },
-    "amma": {
-      "tamil": "சென்னை தமிழ்: அம்மா",
-      "english": "Chennai Tamil: mom",
-      "description": "nan"
-    },
-    "akka": {
-      "tamil": "சென்னை தமிழ்: அக்கா",
-      "english": "Chennai Tamil: sister",
-      "description": "nan"
-    },
-    "thatha": {
-      "tamil": "சென்னை தமிழ்: தாத்தா",
-      "english": "Chennai Tamil: grandpa",
-      "description": "nan"
-    },
-    "paati": {
-      "tamil": "சென்னை தமிழ்: பாட்টி",
-      "english": "Chennai Tamil: grandma",
-      "description": "nan"
-    },
-    "kundam": {
-      "tamil": "சென்னை தமிழ்: குண்டம்",
-      "english": "Chennai Tamil: potbelly",
-      "description": "nan"
-    },
-    "meera": {
-      "tamil": "சென்னை தமிழ்: மீரா",
-      "english": "Chennai Tamil: smart",
-      "description": "nan"
-    },
-    "theenda": {
-      "tamil": "சென்னை தமிழ்: தீந்தா",
-      "english": "Chennai Tamil: daring",
-      "description": "nan"
-    },
-    "vetti": {
-      "tamil": "சென்னை தமிழ்: வெட்டி",
-      "english": "Chennai Tamil: useless",
-      "description": "nan"
-    },
-    "makka": {
-      "tamil": "சென்னை தமிழ்: மக்கா",
-      "english": "Chennai Tamil: man",
-      "description": "nan"
-    },
-    "ponnu": {
-      "tamil": "சென்னை தமிழ்: பொண்ணு",
-      "english": "Chennai Tamil: girl",
-      "description": "nan"
-    },
-    "oor": {
-      "tamil": "சென்னை தமிழ்: ஊர்",
-      "english": "Chennai Tamil: town",
-      "description": "nan"
-    },
-    "veedu": {
-      "tamil": "சென்னை தமிழ்: வீடு",
-      "english": "Chennai Tamil: house",
-      "description": "nan"
-    },
-    "katai": {
-      "tamil": "சென்னை தமிழ்: கடை",
-      "english": "Chennai Tamil: shop",
-      "description": "nan"
-    },
-    "sandhai": {
-      "tamil": "சென்னை தமிழ்: சந்தை",
-      "english": "Chennai Tamil: market",
-      "description": "nan"
-    },
-    "nool": {
-      "tamil": "சென்னை தமிழ்: நூல்",
-      "english": "Chennai Tamil: string",
-      "description": "nan"
-    },
-    "pottu": {
-      "tamil": "சென்னை தமிழ்: பொட்டு",
-      "english": "Chennai Tamil: packet",
-      "description": "nan"
-    },
-    "karambu": {
-      "tamil": "சென்னை தமிழ்: கரம்பு",
-      "english": "Chennai Tamil: sugarcane",
-      "description": "nan"
-    },
-    "neerum": {
-      "tamil": "சென்னை தமிழ்: நீரும்",
-      "english": "Chennai Tamil: water",
-      "description": "nan"
-    },
-    "saadan": {
-      "tamil": "சென்னை தமிழ்: சாதான்",
-      "english": "Chennai Tamil: usual",
-      "description": "nan"
-    },
-    "matta": {
-      "tamil": "சென்னை தமிழ்: மட்டா",
-      "english": "Chennai Tamil: only",
-      "description": "nan"
-    },
-    "ellam": {
-      "tamil": "சென்னை தமிழ்: எல்லாம்",
-      "english": "Chennai Tamil: all",
-      "description": "nan"
-    },
-    "onnu": {
-      "tamil": "சென்னை தமிழ்: ஒன்னு",
-      "english": "Chennai Tamil: one",
-      "description": "nan"
-    },
-    "randu": {
-      "tamil": "சென்னை தமிழ்: ரெண்டு",
-      "english": "Chennai Tamil: two",
-      "description": "nan"
-    },
-    "moonnu": {
-      "tamil": "சென்னை தமிழ்: மூணு",
-      "english": "Chennai Tamil: three",
-      "description": "nan"
-    },
-    "nallla": {
-      "tamil": "சென்னை தமிழ்: நல்லா",
-      "english": "Chennai Tamil: good",
-      "description": "nan"
-    },
-    "kettana": {
-      "tamil": "சென்னை தமிழ்: கெட்டனா",
-      "english": "Chennai Tamil: bad",
-      "description": "nan"
-    },
-    "puyala": {
-      "tamil": "சென்னை தமிழ்: பூயாளா",
-      "english": "Chennai Tamil: stink",
-      "description": "nan"
-    },
-    "odum": {
-      "tamil": "சென்னை தமிழ்: ஓடும்",
-      "english": "Chennai Tamil: runs",
-      "description": "nan"
-    },
-    "nadundhu": {
-      "tamil": "சென்னை தமிழ்: நடுந்து",
-      "english": "Chennai Tamil: walks",
-      "description": "nan"
-    },
-    "okkandhu": {
-      "tamil": "சென்னை தமிழ்: ஒக்கந்து",
-      "english": "Chennai Tamil: squats",
-      "description": "nan"
-    },
-    "Naina": {
-      "tamil": "சென்னை தமிழ்: நைனா",
-      "english": "Chennai Tamil: Father/Elder",
-      "description": "Common Madras bashai for elder or friend"
-    },
-    "Kasmalam": {
-      "tamil": "சென்னை தமிழ்: கஸ்மாலம்",
-      "english": "Chennai Tamil: Dirty/Useless",
-      "description": "Common insult in Madras bashai"
-    },
-    "Galeeju": {
-      "tamil": "சென்னை தமிழ்: கலீஜூ",
-      "english": "Chennai Tamil: Dirty",
-      "description": "Something that looks or feels untidy"
-    },
-    "Bevarsi": {
-      "tamil": "சென்னை தமிழ்: பேவார்சி",
-      "english": "Chennai Tamil: Idle person",
-      "description": "Used for someone who is lazy"
-    },
-    "Inna": {
-      "tamil": "சென்னை தமிழ்: இன்னா",
-      "english": "Chennai Tamil: What?",
-      "description": "Standard Madras bashai for What"
-    },
-    "Dabaiche": {
-      "tamil": "Chennai தமிழ்: தபாய்சே",
-      "english": "Chennai Tamil: Escaped/Hidden",
-      "description": "Madras Bashai for skipping a situation"
+    "Bejaar": {
+      "tamil": "பெஜார்",
+      "english": "Trouble/Disturbance",
+      "description": "When something is irritating"
     },
     "Gethu": {
-      "tamil": "Chennai தமிழ்: கெத்து",
-      "english": "Chennai Tamil: Pride/Style",
-      "description": "Very common Chennai slang for boss-like behavior"
+      "tamil": "கெத்து",
+      "english": "Style/Attitude",
+      "description": "Showing off or being cool"
     },
-    "OC": {
-      "tamil": "Chennai தமிழ்: ஓசி",
-      "english": "Chennai Tamil: Free",
-      "description": "Getting something without paying"
+    "Maja": {
+      "tamil": "மஜா",
+      "english": "Fun/Enjoyment",
+      "description": "Used for a fun situation"
     },
-    "Gabbu": {
-      "tamil": "Chennai தமிழ்: கப்பு",
-      "english": "Chennai Tamil: Bad smell",
-      "description": "When something stinks"
+    "Dubakoor": {
+      "tamil": "டுபாகூர்",
+      "english": "Fake/Fraud",
+      "description": "Someone who lies or is a fake"
     },
-    "Bulding": {
-      "tamil": "Chennai தமிழ்: புல்டிங்",
-      "english": "Chennai Tamil: Fake behavior",
-      "description": "Acting smart or show-off"
+    "Peter": {
+      "tamil": "பீட்டர்",
+      "english": "Fake English",
+      "description": "Someone who speaks English to show off"
+    },
+    "Naina": {
+      "tamil": "நைனா",
+      "english": "Elder/Sir",
+      "description": "Respectful address for an elder man"
+    },
+    "Nashtaa": {
+      "tamil": "நாஷ்டா",
+      "english": "Breakfast",
+      "description": "Heavily used in Chennai (Hindi influence)"
+    },
+    "Vootla": {
+      "tamil": "ஊட்ல",
+      "english": "At home",
+      "description": "Chennai dialect for 'Veetil'"
+    },
+    "Innaki": {
+      "tamil": "இன்னைக்கி",
+      "english": "Today",
+      "description": "Standard Chennai pronunciation"
+    },
+    "Vaadi": {
+      "tamil": "வாடி",
+      "english": "Come (Female)",
+      "description": "Informal address to a girl"
+    },
+    "Oram Po": {
+      "tamil": "ஓரம் போ",
+      "english": "Get aside",
+      "description": "Famous Chennai phrase from road side"
+    },
+    "Kasmalam": {
+      "tamil": "கஸ்மலம்",
+      "english": "Dirty/Waste",
+      "description": "Used as a mild abuse or for someone useless"
+    },
+    "Sema": {
+      "tamil": "செம",
+      "english": "Great/Awesome",
+      "description": "General exclamation for anything good"
+    },
+    "Kasamusa": {
+      "tamil": "கசமுசா",
+      "english": "Messy/Secretive",
+      "description": "Something confusing or suspicious"
+    },
+    "Venaam": {
+      "tamil": "வேணாம்",
+      "english": "Don't want",
+      "description": "Common Chennai pronunciation"
+    },
+    "Approm": {
+      "tamil": "அப்புறம்",
+      "english": "Afterwards",
+      "description": "Frequent conversation filler"
+    },
+    "Enna Naina": {
+      "tamil": "என்ன நைனா",
+      "english": "What's up sir?",
+      "description": "Classic North Chennai greeting"
+    },
+    "Aadu": {
+      "tamil": "ஆடு",
+      "english": "Play/Dance",
+      "description": "Casual term for having fun or active stuff"
+    },
+    "Gilli": {
+      "tamil": "கில்லி",
+      "english": "Expert/Sharp",
+      "description": "Someone who is very skilled in something"
+    },
+    "Gaali": {
+      "tamil": "காலி",
+      "english": "Finished/Empty",
+      "description": "Used when things are over"
+    },
+    "Otha": {
+      "tamil": "ஒத்த",
+      "english": "Single/Unique",
+      "description": "Heavily used as a filler or exclamation"
+    },
+    "Nalla Irukkiya": {
+      "tamil": "நல்லா இருக்கியா",
+      "english": "Are you fine?",
+      "description": "Typical Chennai greeting"
     }
   },
   "Coimbatore": {
-    "da": {
-      "tamil": "coimbatore_da",
-      "english": "Coimbatore Tamil: brother",
-      "description": "nan"
+    "Enna-nga": {
+      "tamil": "என்னங்க",
+      "english": "What?",
+      "description": "Polite Kongu suffix 'nga' added to everything"
     },
-    "ayya": {
-      "tamil": "coimbatore_ayya",
-      "english": "Coimbatore Tamil: sir",
-      "description": "nan"
+    "Vaanga-nga": {
+      "tamil": "வாங்கங்க",
+      "english": "Please come",
+      "description": "Extremely polite invitation"
     },
-    "machan": {
-      "tamil": "coimbatore_machan",
-      "english": "Coimbatore Tamil: buddy",
-      "description": "nan"
+    "Ponga-nga": {
+      "tamil": "போங்கங்க",
+      "english": "Please go",
+      "description": "Polite way to ask someone to leave"
     },
-    "textile": {
-      "tamil": "coimbatore_textile",
-      "english": "Coimbatore Tamil: textile",
-      "description": "nan"
+    "Engunga-tti": {
+      "tamil": "எங்குங்கட்டி",
+      "english": "Where?",
+      "description": "Specific Kongu dialect for asking location"
     },
-    "city": {
-      "tamil": "coimbatore_city",
-      "english": "Coimbatore Tamil: city",
-      "description": "nan"
+    "Thambi-nga": {
+      "tamil": "தம்பிங்க",
+      "english": "Brother",
+      "description": "Respectful address for a younger male"
     },
-    "Ennanga": {
-      "tamil": "கோவை தமிழ்: என்னங்க",
-      "english": "Coimbatore Tamil: What (Polite)",
-      "description": "Polite way of asking What in Kongu Tamil"
+    "Aama-u-nga": {
+      "tamil": "ஆமாங்க",
+      "english": "Yes",
+      "description": "Standard Kongu affirmative with 'nga'"
     },
-    "Vanga": {
-      "tamil": "கோவை தமிழ்: வாங்க",
-      "english": "Coimbatore Tamil: Come (Polite)",
-      "description": "Standard polite greeting"
-    },
-    "Ponga": {
-      "tamil": "கோவை தமிழ்: போங்க",
-      "english": "Coimbatore Tamil: Go (Polite)",
-      "description": "Polite way of asking to leave"
-    },
-    "Aamaunga": {
-      "tamil": "Coimbatore தமிழ்: ஆமாங்க",
-      "english": "Coimbatore Tamil: Yes (Respectful)",
-      "description": "Standard Kongu suffix used in Erode/Salem too"
-    },
-    "Engungattinga": {
-      "tamil": "கோவை தமிழ்: எங்குங்காட்டிங்க",
-      "english": "Coimbatore Tamil: Where?",
-      "description": "Kongu dialect for asking location"
-    },
-    "Thambinga": {
-      "tamil": "Coimbatore தமிழ்: தம்பிங்க",
-      "english": "Coimbatore Tamil: Brother (Polite)",
-      "description": "The classic Kongu polite address"
-    },
-    "Vanganga": {
-      "tamil": "Coimbatore தமிழ்: வாங்கங்க",
-      "english": "Coimbatore Tamil: Please come",
-      "description": "Polite greeting characteristic of the region"
-    },
-    "Kandippaunga": {
-      "tamil": "Coimbatore தமிழ்: கண்டிப்பாங்க",
-      "english": "Coimbatore Tamil: Definitely",
-      "description": "Showing respect while agreeing"
-    },
-    "Oru nimishamnga": {
-      "tamil": "Coimbatore தமிழ்: ஒரு நிமிஷங்க",
-      "english": "Coimbatore Tamil: One minute please",
+    "Oru-Nimisham-u-nga": {
+      "tamil": "ஒரு நிமிஷங்க",
+      "english": "One minute",
       "description": "Polite interruption"
+    },
+    "Saap-teengala-nga": {
+      "tamil": "சாப்டீங்களாங்க",
+      "english": "Have you eaten?",
+      "description": "Hospitality is huge in Kongu belt"
+    },
+    "Eppadi-i-nga-Irukeenga": {
+      "tamil": "எப்படிங்க இருக்கீங்க",
+      "english": "How are you?",
+      "description": "Standard respectful greeting"
+    },
+    "Ko-otu-nga": {
+      "tamil": "கூட்டுங்க",
+      "english": "Bring",
+      "description": "Kongu style of asking to bring something"
+    },
+    "Sollu-nga": {
+      "tamil": "சொல்லுங்க",
+      "english": "Tell me",
+      "description": "Polite request to speak"
+    },
+    "Vee-tu-le-u-nga": {
+      "tamil": "வீட்டுலேங்க",
+      "english": "At home",
+      "description": "Adding respect even for inanimate objects"
+    },
+    "Pannu-nga": {
+      "tamil": "பண்ணுங்க",
+      "english": "Do it",
+      "description": "Polite way of giving work"
+    },
+    "Vera-u-nga": {
+      "tamil": "வேறேங்க",
+      "english": "Something else",
+      "description": "Polite continuation of a topic"
+    },
+    "Illa-I-nga": {
+      "tamil": "இல்லைங்க",
+      "english": "No",
+      "description": "Respectful refusal"
+    },
+    "Romba-u-nga": {
+      "tamil": "ரொம்பங்க",
+      "english": "Very much",
+      "description": "Used to emphasize with respect"
+    },
+    "Vandu-u-nga": {
+      "tamil": "வந்துங்க",
+      "english": "Coming/Arrived",
+      "description": "Explaining Arrival with Kongu flair"
+    },
+    "Amma-u-nga": {
+      "tamil": "அம்மாங்க",
+      "english": "Mother/Madam",
+      "description": "Address for respect"
+    },
+    "Ayya-u-nga": {
+      "tamil": "ஐயாங்க",
+      "english": "Sir",
+      "description": "Address for elder males"
+    },
+    "Angu-tu": {
+      "tamil": "அங்குட்டு",
+      "english": "That side",
+      "description": "Wait/Direction in Kongu dialect"
+    },
+    "Ingu-tu": {
+      "tamil": "இங்குட்டு",
+      "english": "This side",
+      "description": "Pointing to something nearby"
     }
   },
   "Cuddalore": {
@@ -611,155 +645,55 @@
     }
   },
   "Dharmapuri": {
-    "da": {
-      "tamil": "தர்மபுரி தமிழ்: தா",
-      "english": "Dharmapuri Tamil: brother",
-      "description": "nan"
+    "Gethu": {
+      "tamil": "கெத்து",
+      "english": "Style/Attitude",
+      "description": "Common North/Dharmapuri cool factor"
     },
-    "ayya": {
-      "tamil": "தர்மபுரி தமிழ்: அய்யா",
-      "english": "Dharmapuri Tamil: sir",
-      "description": "nan"
+    "Kudu": {
+      "tamil": "குடு",
+      "english": "Give/Put",
+      "description": "Kannada influence: Used for putting or giving"
     },
-    "machan": {
-      "tamil": "தர்மபுரி தமிழ்: மச்சான்",
-      "english": "Dharmapuri Tamil: buddy",
-      "description": "nan"
+    "Yembi": {
+      "tamil": "எம்பி",
+      "english": "Brother",
+      "description": "Addresses younger friend/brother"
     },
-    "chetta": {
-      "tamil": "தர்மபுரி தமிழ்: சேட்டா",
-      "english": "Dharmapuri Tamil: friend",
-      "description": "nan"
+    "Enna-re": {
+      "tamil": "என்னாரே",
+      "english": "What/Brother",
+      "description": "Northern informal greeting for friends"
     },
-    "mountain": {
-      "tamil": "தர்மபுரி தமிழ்: மலை",
-      "english": "Dharmapuri Tamil: mountain",
-      "description": "nan"
+    "Ho": {
+      "tamil": "ஹோ",
+      "english": "What/Is it",
+      "description": "Commonly added to questions (Kannada influence)"
     },
-    "forest": {
-      "tamil": "தர்மபுரி தமிழ்: காடு",
-      "english": "Dharmapuri Tamil: forest",
-      "description": "nan"
+    "Ingittu": {
+      "tamil": "இங்கிட்டு",
+      "english": "This side",
+      "description": "Variation of 'Ingu'"
     },
-    "hill": {
-      "tamil": "தர்மபுரி தமிழ்: குன்று",
-      "english": "Dharmapuri Tamil: hill",
-      "description": "nan"
+    "Angittu": {
+      "tamil": "அங்கிட்டு",
+      "english": "That side",
+      "description": "Variation of 'Angu'"
     },
-    "valley": {
-      "tamil": "தர்மபுரி தமிழ்: பள்ளம்",
-      "english": "Dharmapuri Tamil: valley",
-      "description": "nan"
+    "Machan-re": {
+      "tamil": "மச்சான்ரே",
+      "english": "Buddy",
+      "description": "Regional suffix variation"
     },
-    "river": {
-      "tamil": "தர்மபுரி தமிழ்: ஆறு",
-      "english": "Dharmapuri Tamil: river",
-      "description": "nan"
+    "Pannre": {
+      "tamil": "பண்ரே",
+      "english": "Do it",
+      "description": "North region informal variation"
     },
-    "stone": {
-      "tamil": "தர்மபுரி தமிழ்: கல்",
-      "english": "Dharmapuri Tamil: stone",
-      "description": "nan"
-    },
-    "rock": {
-      "tamil": "தர்மபுரி தமிழ்: பாறை",
-      "english": "Dharmapuri Tamil: rock",
-      "description": "nan"
-    },
-    "clay": {
-      "tamil": "தர்மபுரி தமிழ்: மண்",
-      "english": "Dharmapuri Tamil: clay",
-      "description": "nan"
-    },
-    "sand": {
-      "tamil": "தர்மபுரி தமிழ்: மணல்",
-      "english": "Dharmapuri Tamil: sand",
-      "description": "nan"
-    },
-    "gold": {
-      "tamil": "தர்மபுரி தமிழ்: பொன்",
-      "english": "Dharmapuri Tamil: gold",
-      "description": "nan"
-    },
-    "mine": {
-      "tamil": "தர்மபுரி தமிழ்:광산",
-      "english": "Dharmapuri Tamil: mine",
-      "description": "nan"
-    },
-    "quarry": {
-      "tamil": "தர்மபுரி தமிழ்: கல்லுமி",
-      "english": "Dharmapuri Tamil: quarry",
-      "description": "nan"
-    },
-    "tree": {
-      "tamil": "தர்மபுரி தமிழ்: மரம்",
-      "english": "Dharmapuri Tamil: tree",
-      "description": "nan"
-    },
-    "flower": {
-      "tamil": "தர்மபுரி தமிழ்: பூ",
-      "english": "Dharmapuri Tamil: flower",
-      "description": "nan"
-    },
-    "fruit": {
-      "tamil": "தர்மபுரி தமிழ்: பழம்",
-      "english": "Dharmapuri Tamil: fruit",
-      "description": "nan"
-    },
-    "leaf": {
-      "tamil": "தர்மபுரி தமிழ்: இலை",
-      "english": "Dharmapuri Tamil: leaf",
-      "description": "nan"
-    },
-    "animal": {
-      "tamil": "தர்மபுரி தமிழ்: விலங்கு",
-      "english": "Dharmapuri Tamil: animal",
-      "description": "nan"
-    },
-    "tiger": {
-      "tamil": "தர்மபுரி தமிழ்: புலி",
-      "english": "Dharmapuri Tamil: tiger",
-      "description": "nan"
-    },
-    "elephant": {
-      "tamil": "தர்மபுரி தமிழ்: யானை",
-      "english": "Dharmapuri Tamil: elephant",
-      "description": "nan"
-    },
-    "deer": {
-      "tamil": "தர்மபுரி தமிழ்: மான்",
-      "english": "Dharmapuri Tamil: deer",
-      "description": "nan"
-    },
-    "wild": {
-      "tamil": "தர்மபுரி தமிழ்: காட்டான",
-      "english": "Dharmapuri Tamil: wild",
-      "description": "nan"
-    },
-    "temple": {
-      "tamil": "தர்மபுரி தமிழ்: கோயில்",
-      "english": "Dharmapuri Tamil: temple",
-      "description": "nan"
-    },
-    "prayer": {
-      "tamil": "தர்மபுரி தமிழ்: பிரார்த்தனை",
-      "english": "Dharmapuri Tamil: prayer",
-      "description": "nan"
-    },
-    "god": {
-      "tamil": "தர்மபுரி தமிழ்: கடவுள்",
-      "english": "Dharmapuri Tamil: god",
-      "description": "nan"
-    },
-    "sacred": {
-      "tamil": "தர்மபுரி தமிழ்: புனிதம்",
-      "english": "Dharmapuri Tamil: sacred",
-      "description": "nan"
-    },
-    "pilgrimage": {
-      "tamil": "தர்மபுரி தமிழ்: யாத்ரை",
-      "english": "Dharmapuri Tamil: pilgrimage",
-      "description": "nan"
+    "Vangre": {
+      "tamil": "வாங்ரே",
+      "english": "I am coming",
+      "description": "Variant of 'Varugiren' in North Dharmapuri belt"
     }
   },
   "Dindigul": {
@@ -790,30 +724,157 @@
     }
   },
   "Erode": {
-    "da": {
-      "tamil": "erode_da",
-      "english": "Erode Tamil: brother",
-      "description": "nan"
+    "Nga": {
+      "tamil": "ங்க",
+      "english": "Respectful suffix",
+      "description": "Universal Kongu polite ending"
     },
-    "ayya": {
-      "tamil": "erode_ayya",
-      "english": "Erode Tamil: sir",
-      "description": "nan"
+    "Vaannu": {
+      "tamil": "வாண்ணு",
+      "english": "Come (plural/respect)",
+      "description": "Variant of 'Vaanga'"
     },
-    "machan": {
-      "tamil": "erode_machan",
-      "english": "Erode Tamil: buddy",
-      "description": "nan"
+    "Saapdu-mbu": {
+      "tamil": "சாப்டும்பு",
+      "english": "Eat",
+      "description": "Kongu/Erode informal command"
     },
-    "textile": {
-      "tamil": "erode_textile",
-      "english": "Erode Tamil: textile",
-      "description": "nan"
+    "Oda-nga": {
+      "tamil": "ஓடங்க",
+      "english": "Run",
+      "description": "Adding 'nga' to action verbs for politeness"
     },
-    "city": {
-      "tamil": "erode_city",
-      "english": "Erode Tamil: city",
-      "description": "nan"
+    "Inguttu": {
+      "tamil": "இங்குட்டு",
+      "english": "This side",
+      "description": "Kongu direction marker"
+    },
+    "Anguttu": {
+      "tamil": "அங்குட்டு",
+      "english": "That side",
+      "description": "Kongu direction marker"
+    },
+    "Seira-nga": {
+      "tamil": "செய்றாங்க",
+      "english": "They are doing",
+      "description": "Kongu phonetic variation"
+    },
+    "Machan-nga": {
+      "tamil": "மச்சான்ங்க",
+      "english": "Buddies",
+      "description": "Addressing friends respectfully"
+    },
+    "Apparu": {
+      "tamil": "அப்பாரு",
+      "english": "Father",
+      "description": "Erode/Kongu variation for dad"
+    },
+    "Dhakka": {
+      "tamil": "தக்கா",
+      "english": "Sister",
+      "description": "Common in Erode/Western region for elder sister"
+    }
+  },
+  "Kallakurichi": {
+    "Vanthuruvaunga": {
+      "tamil": "வந்துருவாங்க",
+      "english": "They will come",
+      "description": "Strong Kallakurichi plural suffix 'unga'"
+    },
+    "Poyiraurunga": {
+      "tamil": "போயிருருங்கா",
+      "english": "They have gone",
+      "description": "Characteristic plural suffix 'urunga'"
+    },
+    "Yenna Sanda": {
+      "tamil": "என்ன சண்டை",
+      "english": "What's the fight?",
+      "description": "Common street confrontation"
+    },
+    "Annainga": {
+      "tamil": "அண்ணைங்க",
+      "english": "Brothers",
+      "description": "Respectful plural address in Kallakurichi"
+    },
+    "Saapidunga": {
+      "tamil": "சாப்பிடுங்க",
+      "english": "Eat (Plural)",
+      "description": "Polite plural suffix"
+    },
+    "Kallu Kattu": {
+      "tamil": "கல்லு கட்டு",
+      "english": "Heavy/Sturdy",
+      "description": "Used in Viluppuram/Kallakurichi context"
+    },
+    "Oram Kattu": {
+      "tamil": "ஓரம் கட்டு",
+      "english": "Move/Keep aside",
+      "description": "Common street instruction"
+    },
+    "Ennamma": {
+      "tamil": "என்னம்மா",
+      "english": "What mother/lady?",
+      "description": "Universal polite address"
+    },
+    "Maanaa": {
+      "tamil": "மானா",
+      "english": "Come/Go (Person)",
+      "description": "Specific rural person marker"
+    },
+    "Vaappaa": {
+      "tamil": "வாப்பா",
+      "english": "Come man (Male)",
+      "description": "North TN friendly address"
+    },
+    "Gethaa Iru": {
+      "tamil": "கெத்தா இரு",
+      "english": "Be stylish/bold",
+      "description": "Modern regional youth slang"
+    },
+    "Approm": {
+      "tamil": "அப்புறம்",
+      "english": "What else?",
+      "description": "Filler conversationally"
+    },
+    "Summa Soniya": {
+      "tamil": "சும்மா சோனியா",
+      "english": "Just joking/Simply saying",
+      "description": "Regional phrase variation"
+    },
+    "Seringapa": {
+      "tamil": "சரிங்கப்பா",
+      "english": "Alright man",
+      "description": "Common respectful agreement"
+    },
+    "Enna Naa": {
+      "tamil": "என்ன நா",
+      "english": "What brother?",
+      "description": "General shortened address"
+    },
+    "Appu": {
+      "tamil": "அப்பு",
+      "english": "Son/Boy",
+      "description": "Specific child/younger person address"
+    },
+    "Ponu": {
+      "tamil": "போணு",
+      "english": "Go",
+      "description": "Shortened version of 'Poga vendum'"
+    },
+    "Vandhurunga": {
+      "tamil": "வந்துருங்க",
+      "english": "Come (respectful)",
+      "description": "Suffix standard in transition zones"
+    },
+    "Aiyya": {
+      "tamil": "ஐயா",
+      "english": "Sir/Respectful term",
+      "description": "Standard in northern rural Tamil"
+    },
+    "Sema Macha": {
+      "tamil": "செம மச்சா",
+      "english": "Great buddy",
+      "description": "Modern street slang"
     }
   },
   "Kanchipuram": {
@@ -949,130 +1010,55 @@
     }
   },
   "Kanyakumari": {
-    "da": {
-      "tamil": "கன்னியाकுமारி தமிழ்: தா",
-      "english": "Kanyakumari Tamil: brother",
-      "description": "nan"
+    "Lade": {
+      "tamil": "லேடே",
+      "english": "Hey/Listen",
+      "description": "Common Kumaresan greeting (informal)"
     },
-    "ayya": {
-      "tamil": "கன்னியாகுமாരி தமிழ்: அய்யா",
-      "english": "Kanyakumari Tamil: sir",
-      "description": "nan"
+    "Appolthulla": {
+      "tamil": "அப்பொள்துல்லா",
+      "english": "At that time",
+      "description": "Malayalam influenced expression for then/at that time"
     },
-    "machan": {
-      "tamil": "கன்னியாకுமாரி தமிழ்: மச்சான்",
-      "english": "Kanyakumari Tamil: buddy",
-      "description": "nan"
+    "Enna-re": {
+      "tamil": "என்னாரே",
+      "english": "How are you/What's up",
+      "description": "Typical informal greeting for an equal or younger"
     },
-    "cape": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: மூலை",
-      "english": "Kanyakumari Tamil: cape",
-      "description": "nan"
+    "Ambum": {
+      "tamil": "அம்பும்",
+      "english": "Everything/All",
+      "description": "Southern-most slang for total/all"
     },
-    "ocean": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: கடல்",
-      "english": "Kanyakumari Tamil: ocean",
-      "description": "nan"
+    "Valippu": {
+      "tamil": "வளிப்பு",
+      "english": "Wait",
+      "description": "Used to say 'staying there' or waiting"
     },
-    "fishing": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: மீன்பிடி",
-      "english": "Kanyakumari Tamil: fishing",
-      "description": "nan"
+    "Thorthu": {
+      "tamil": "தோர்த்து",
+      "english": "Towel",
+      "description": "Malayalam word used heavily in Kumari for bath towel"
     },
-    "coconut": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: தேங்காய்",
-      "english": "Kanyakumari Tamil: coconut",
-      "description": "nan"
+    "Chaadi": {
+      "tamil": "சாடி",
+      "english": "Jump/Leap",
+      "description": "Action of jumping over something"
     },
-    "spice": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: மசாலா",
-      "english": "Kanyakumari Tamil: spice",
-      "description": "nan"
+    "Koppa": {
+      "tamil": "கொப்பா",
+      "english": "Father",
+      "description": "A very local/informal way to refer to father"
     },
-    "pepper": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: மிளகு",
-      "english": "Kanyakumari Tamil: pepper",
-      "description": "nan"
+    "Adichu-mattu": {
+      "tamil": "அடிச்சுமாத்து",
+      "english": "Run away",
+      "description": "Slang for quickly escaping"
     },
-    "tropical": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: வெப்ப மண்டல",
-      "english": "Kanyakumari Tamil: tropical",
-      "description": "nan"
-    },
-    "south": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: தென்",
-      "english": "Kanyakumari Tamil: south",
-      "description": "nan"
-    },
-    "southernmost": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: தெனாடை",
-      "english": "Kanyakumari Tamil: southernmost",
-      "description": "nan"
-    },
-    "tip": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: முனை",
-      "english": "Kanyakumari Tamil: tip",
-      "description": "nan"
-    },
-    "sunset": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: சூரியாஸ்தமனம்",
-      "english": "Kanyakumari Tamil: sunset",
-      "description": "nan"
-    },
-    "sunrise": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: சூரியோதயம்",
-      "english": "Kanyakumari Tamil: sunrise",
-      "description": "nan"
-    },
-    "beach": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: கரை",
-      "english": "Kanyakumari Tamil: beach",
-      "description": "nan"
-    },
-    "sand": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: மணல்",
-      "english": "Kanyakumari Tamil: sand",
-      "description": "nan"
-    },
-    "wave": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: அலை",
-      "english": "Kanyakumari Tamil: wave",
-      "description": "nan"
-    },
-    "monsoon": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: மழை காலம்",
-      "english": "Kanyakumari Tamil: monsoon",
-      "description": "nan"
-    },
-    "wind": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: காற்று",
-      "english": "Kanyakumari Tamil: wind",
-      "description": "nan"
-    },
-    "salt": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: உப்பு",
-      "english": "Kanyakumari Tamil: salt",
-      "description": "nan"
-    },
-    "trade": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: வாணिज்य",
-      "english": "Kanyakumari Tamil: trade",
-      "description": "nan"
-    },
-    "merchant": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: வணிகன்",
-      "english": "Kanyakumari Tamil: merchant",
-      "description": "nan"
-    },
-    "port": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: துறை",
-      "english": "Kanyakumari Tamil: port",
-      "description": "nan"
-    },
-    "ship": {
-      "tamil": "கன்னியாகுமாரி தமிழ்: கப்பல்",
-      "english": "Kanyakumari Tamil: ship",
-      "description": "nan"
+    "Onthu": {
+      "tamil": "ஒந்து",
+      "english": "Come/Arrived",
+      "description": "Modified version of 'vanthu' in Kumari dialect"
     }
   },
   "Karur": {
@@ -1193,280 +1179,265 @@
     }
   },
   "Krishnagiri": {
-    "da": {
-      "tamil": "கிருஷ்ணகிரி தமிழ்: தா",
-      "english": "Krishnagiri Tamil: brother",
-      "description": "nan"
+    "Gethu": {
+      "tamil": "கெத்து",
+      "english": "Style/Attitude",
+      "description": "Common North/Krishnagiri cool factor"
     },
-    "machan": {
-      "tamil": "கிருஷ்ணகிரி தமிழ்: மச்சான்",
-      "english": "Krishnagiri Tamil: buddy",
-      "description": "nan"
+    "Haaku": {
+      "tamil": "ஹாக்கு",
+      "english": "Put/Throw",
+      "description": "Kannada influence: Used for putting or throwing"
     },
-    "thambi": {
-      "tamil": "கிருஷ்ணகிரி தமிழ்: தம்பி",
-      "english": "Krishnagiri Tamil: brother",
-      "description": "nan"
+    "Maappile": {
+      "tamil": "மாப்பிளே",
+      "english": "Friend/Groom",
+      "description": "Common address for friend"
     },
-    "ayya": {
-      "tamil": "கிருஷ்ணகிரி தமிழ்: அய்யா",
-      "english": "Krishnagiri Tamil: sir",
-      "description": "nan"
+    "Enna-re": {
+      "tamil": "என்னாரே",
+      "english": "What/Brother",
+      "description": "Northern informal greeting for friends"
     },
-    "hill": {
-      "tamil": "கிருஷ்ணகிரி தமிழ்: குன்று",
-      "english": "Krishnagiri Tamil: hill",
-      "description": "nan"
+    "Kudu": {
+      "tamil": "குடு",
+      "english": "Give/Put",
+      "description": "Kannada influence: Used for giving"
     },
-    "mountain": {
-      "tamil": "கிருஷ்ணகிரி தமிழ்: மலை",
-      "english": "Krishnagiri Tamil: mountain",
-      "description": "nan"
+    "Ho": {
+      "tamil": "ஹோ",
+      "english": "What/Is it",
+      "description": "Commonly added to questions (Kannada/Telugu influence)"
     },
-    "rock": {
-      "tamil": "கிருஷ்ணகிரி தமிழ்: பாறை",
-      "english": "Krishnagiri Tamil: rock",
-      "description": "nan"
+    "Ingittu": {
+      "tamil": "இங்கிட்டு",
+      "english": "This side",
+      "description": "Variation of 'Ingu'"
     },
-    "stone": {
-      "tamil": "கிருஷ்ணகிரி தமிழ்: கல்",
-      "english": "Krishnagiri Tamil: stone",
-      "description": "nan"
+    "Angittu": {
+      "tamil": "அங்கிட்டு",
+      "english": "That side",
+      "description": "Variation of 'Angu'"
     },
-    "quarry": {
-      "tamil": "கிருஷ்ணகிரி தமிழ்: கல்லுமி",
-      "english": "Krishnagiri Tamil: quarry",
-      "description": "nan"
+    "Machan-re": {
+      "tamil": "மச்சான்ரே",
+      "english": "Buddy",
+      "description": "Regional suffix variation"
     },
-    "granite": {
-      "tamil": "கிருஷ்ணகிரி தமிழ்: கிரேனைட்",
-      "english": "Krishnagiri Tamil: granite",
-      "description": "nan"
-    },
-    "mineral": {
-      "tamil": "கிருஷ்ணகிரி தமிழ்: தாதுப்பொருள்",
-      "english": "Krishnagiri Tamil: mineral",
-      "description": "nan"
-    },
-    "metal": {
-      "tamil": "கிருஷ்ணகிരி தமிழ்: உலோகம்",
-      "english": "Krishnagiri Tamil: metal",
-      "description": "nan"
-    },
-    "ore": {
-      "tamil": "கிருஷ்ணகிரி தமிழ்: தாது",
-      "english": "Krishnagiri Tamil: ore",
-      "description": "nan"
-    },
-    "mining": {
-      "tamil": "கிருஷ்ணகிரி தமிழ்: கண்ணிப்பு",
-      "english": "Krishnagiri Tamil: mining",
-      "description": "nan"
-    },
-    "excavation": {
-      "tamil": "கிருஷ்ணகிरी તમીલ: ખોદકામ",
-      "english": "Krishnagiri Tamil: excavation",
-      "description": "nan"
-    },
-    "forest": {
-      "tamil": "կtஷ்ணகிరी તમીલ: جંगل",
-      "english": "Krishnagiri Tamil: forest",
-      "description": "nan"
-    },
-    "valley": {
-      "tamil": "κтஷ்ණакیрี તમйल: wadi",
-      "english": "Krishnagiri Tamil: valley",
-      "description": "nan"
-    },
-    "river": {
-      "tamil": "গతஷ್ణaკีरী తતمिल: नदी",
-      "english": "Krishnagiri Tamil: river",
-      "description": "nan"
-    },
-    "water": {
-      "tamil": "kృஷ్ணთιरි তমिل: पानी",
-      "english": "Krishnagiri Tamil: water",
-      "description": "nan"
-    },
-    "stream": {
-      "tamil": "غึஷ್ણگีриత తmیল: stream",
-      "english": "Krishnagiri Tamil: stream",
-      "description": "nan"
-    },
-    "industrial": {
-      "tamil": "बుஷ్ஷતکีრی তmیل: उद्योگік",
-      "english": "Krishnagiri Tamil: industrial",
-      "description": "nan"
-    },
-    "factory": {
-      "tamil": "कృஷ್ੁಾгีरா తಕীಲ: कारखाना",
-      "english": "Krishnagiri Tamil: factory",
-      "description": "nan"
+    "Pannre": {
+      "tamil": "பண்ரே",
+      "english": "Do it",
+      "description": "North region informal variation"
     }
   },
   "Madurai": {
-    "da": {
-      "tamil": "மதுரை தமிழ்: தா",
-      "english": "Madurai Tamil: brother",
-      "description": "nan"
+    "Vanthutiya": {
+      "tamil": "வந்துட்டியா",
+      "english": "Did you come?",
+      "description": "Specific Madurai intonation"
     },
-    "machan": {
-      "tamil": "மதுரை தமிழ்: மச்சான்",
-      "english": "Madurai Tamil: buddy",
-      "description": "nan"
+    "Enna-ppa": {
+      "tamil": "என்னப்பா",
+      "english": "What friend/elder?",
+      "description": "Father/Elder/Friend address 'Appa'"
     },
-    "thambi": {
-      "tamil": "மதுரை தமிழ்: தம்பி",
-      "english": "Madurai Tamil: brother",
-      "description": "nan"
+    "Madurai-kaaran": {
+      "tamil": "மதுரைக்காரன்",
+      "english": "Man from Madurai",
+      "description": "Standard identity phrase"
     },
-    "ayya": {
-      "tamil": "மதுரை தமிழ்: அய்யா",
-      "english": "Madurai Tamil: sir",
-      "description": "nan"
+    "Gethu-Kaatiruvaan": {
+      "tamil": "கெத்து காட்டிருவான்",
+      "english": "He will show style",
+      "description": "Madurai bravery term"
     },
-    "ponnu": {
-      "tamil": "மதுரை தமிழ்: பொண்ணு",
-      "english": "Madurai Tamil: girl",
-      "description": "nan"
+    "Aruva": {
+      "tamil": "அருவா",
+      "english": "Machete/Long Knife",
+      "description": "Culturally significant tool (often joked)"
     },
-    "minakshi": {
-      "tamil": "மதுரை தமிழ்: மீனாக்ஷி",
-      "english": "Madurai Tamil: Meenakshi",
-      "description": "nan"
+    "Ayya": {
+      "tamil": "ஐயா",
+      "english": "Respected Elder",
+      "description": "Common polite term for senior males"
     },
-    "temple": {
-      "tamil": "மதுரை தமிழ்: கோயில்",
-      "english": "Madurai Tamil: temple",
-      "description": "nan"
+    "Madurai-Jigarthanda": {
+      "tamil": "மதுரை ஜிகர்தண்டா",
+      "english": "Cold Drink",
+      "description": "Popular Madurai drink (almost a slang)"
     },
-    "prayer": {
-      "tamil": "மதுரை தமிழ்: பிரார்த்தனை",
-      "english": "Madurai Tamil: prayer",
-      "description": "nan"
+    "Kuda-Suthu-Raan": {
+      "tamil": "கூட சுத்தறான்",
+      "english": "He is hanging out",
+      "description": "Friends hanging out"
     },
-    "pilgrimage": {
-      "tamil": "மதுரை తмिল्: यात्रा",
-      "english": "Madurai Tamil: pilgrimage",
-      "description": "nan"
+    "Sema-Mass": {
+      "tamil": "செம மாஸ்",
+      "english": "Very cool",
+      "description": "High praise for something stylish"
     },
-    "devotion": {
-      "tamil": "मதுरai தмिл्: भक्ति",
-      "english": "Madurai Tamil: devotion",
-      "description": "nan"
+    "Podi-Paiya": {
+      "tamil": "போடி பயா",
+      "english": "Silly Boy/Kid",
+      "description": "Mild insulting or teasing"
     },
-    "ancient": {
-      "tamil": "মাทுરҚ तमिل: पुरानो",
-      "english": "Madurai Tamil: ancient",
-      "description": "nan"
+    "Vettai": {
+      "tamil": "வேட்டை",
+      "english": "Hunt/Adventure",
+      "description": "Going out for fun or to find something"
     },
-    "history": {
-      "tamil": "മുരୁୟა தمิял: इतिहास",
-      "english": "Madurai Tamil: history",
-      "description": "nan"
+    "Saapdunga-da": {
+      "tamil": "சாப்டுங்கடா",
+      "english": "Eat everyone",
+      "description": "Casual lunch invitation"
     },
-    "city": {
-      "tamil": "మదุરαต ಸುತмיз: शहर",
-      "english": "Madurai Tamil: city",
-      "description": "nan"
+    "Madurai-Meenakshi": {
+      "tamil": "மதுரை மீனாக்ஷி",
+      "english": "Goddess Meenakshi",
+      "description": "Reference to the temple deity"
     },
-    "palace": {
-      "tamil": "મদুรೆఈ तমिल: महल",
-      "english": "Madurai Tamil: palace",
-      "description": "nan"
+    "Engu-tu": {
+      "tamil": "எங்குட்டு",
+      "english": "Where?",
+      "description": "Common location query"
     },
-    "architecture": {
-      "tamil": "लदುৰყ తмिල: स्थापत्य",
-      "english": "Madurai Tamil: architecture",
-      "description": "nan"
+    "Athu-Pola": {
+      "tamil": "அது போல",
+      "english": "Like that",
+      "description": "Madurai comparison filler"
     },
-    "pandyan": {
-      "tamil": "मிُႏັုಂ ატთমíლ: पंड्यन्",
-      "english": "Madurai Tamil: Pandya",
-      "description": "nan"
+    "Enna-Sollu-thee": {
+      "tamil": "என்ன சொல்லுதீ",
+      "english": "What are you saying?",
+      "description": "Typical Madurai question style"
     },
-    "dynasty": {
-      "tamil": "మาთುರை तмიyl: राजवंश",
-      "english": "Madurai Tamil: dynasty",
-      "description": "nan"
+    "Vandhu-iru": {
+      "tamil": "வந்து இரு",
+      "english": "Stay there",
+      "description": "Instruction to wait"
     },
-    "silk": {
-      "tamil": "მدུুٴ့ತumil: रेशम",
-      "english": "Madurai Tamil: silk",
-      "description": "nan"
+    "Poyir-u": {
+      "tamil": "போயிரு",
+      "english": "Go away",
+      "description": "Casual command to leave"
     },
-    "textiles": {
-      "tamil": "ທുುٴ့ັೇ තઈცుമิḷ: पाठ्य",
-      "english": "Madurai Tamil: textiles",
-      "description": "nan"
+    "Kandippu": {
+      "tamil": "கண்டிப்பு",
+      "english": "Strict/Clear",
+      "description": "Used for a definitive answer"
     },
-    "jasmine": {
-      "tamil": "মदುરಛี તኬిើ: चमेली",
-      "english": "Madurai Tamil: jasmine",
-      "description": "nan"
+    "Sariy-a-Irukku": {
+      "tamil": "சரியா இருக்கு",
+      "english": "It is perfect",
+      "description": "Agreement in Madurai dialect"
     },
-    "flower": {
-      "tamil": "ഉదുರۀ තມิԱ: फूल",
-      "english": "Madurai Tamil: flower",
-      "description": "nan"
-    },
-    "flower garland": {
-      "tamil": "মదुৰֱ tୀఝ_มึलҳ: फूलों की माला",
-      "english": "Madurai Tamil: flower garland",
-      "description": "nan"
-    },
-    "art": {
-      "tamil": "ማቴୁٿҳ ತмిለ: कला",
-      "english": "Madurai Tamil: art",
-      "description": "nan"
-    },
-    "culture": {
-      "tamil": "মদುฟੳ आтмільั: संस्कृति",
-      "english": "Madurai Tamil: culture",
-      "description": "nan"
-    },
-    "Engattu": {
-      "tamil": "Madurai தமிழ்: எங்காட்டு",
-      "english": "Madurai Tamil: Direction",
-      "description": "Specific Madurai way of saying this way/that way"
-    },
-    "Embuttu": {
-      "tamil": "மதுரை தமிழ்: எம்புட்டு",
-      "english": "Madurai Tamil: How much?",
-      "description": "Madurai style of asking quantity"
-    },
-    "Vittiya": {
-      "tamil": "மதுரை தமிழ்: விட்டியா",
-      "english": "Madurai Tamil: Are you there?",
-      "description": "Common query in Madurai"
-    },
-    "Pangali": {
-      "tamil": "Madurai தமிழ்: பங்காளி",
-      "english": "Madurai Tamil: Friend",
-      "description": "The brotherly address dominant in Madurai"
-    },
-    "Vezhapadu": {
-      "tamil": "மதுரை தமிழ்: வேழப்பாடு",
-      "english": "Madurai Tamil: Work",
-      "description": "Madurai specific word for job or task"
-    },
-    "Vaigai": {
-      "tamil": "Madurai தமிழ்: வைகை",
-      "english": "Madurai Tamil: Local Pride",
-      "description": "Referring to the iconic river and identity"
-    },
-    "Arivu Kettavan": {
-      "tamil": "Madurai தமிழ்: அறிவு கெட்டவன்",
-      "english": "Madurai Tamil: Stupid (Friendly)",
-      "description": "Common Madurai rough affection"
-    },
-    "Sengal": {
-      "tamil": "Madurai தமிழ்: செங்கல்",
-      "english": "Madurai Tamil: Brick",
-      "description": "Industrial/Work slang unique to Madurai outskirts"
+    "Enga-Saami": {
+      "tamil": "எங்க சாமி",
+      "english": "Where sir/friend?",
+      "description": "Greeting someone politely"
     }
   },
   "Mayiladuthurai": {
+    "Vanthurkanga": {
+      "tamil": "வந்திருக்காங்க",
+      "english": "They have come",
+      "description": "Delta refined pronunciation"
+    },
+    "Aiyya": {
+      "tamil": "ஐயா",
+      "english": "Sir/Refined address",
+      "description": "Kumbakonam/Mayiladuthurai refined style"
+    },
+    "Saapdalamaa": {
+      "tamil": "சாப்பிடலாமா",
+      "english": "Can we eat?",
+      "description": "Refined question in Delta dialect"
+    },
+    "Enna Machi": {
+      "tamil": "என்ன மச்சி",
+      "english": "What friend?",
+      "description": "Standard youth term"
+    },
+    "Gethaa": {
+      "tamil": "கெத்தா",
+      "english": "Stylishly",
+      "description": "Modern urban slang in Mayiladuthurai"
+    },
+    "Summa": {
+      "tamil": "சும்மா",
+      "english": "Just/Simply",
+      "description": "Polite conversational filler"
+    },
+    "Poyittu Vaanga": {
+      "tamil": "போயிட்டு வாங்க",
+      "english": "Go and come back",
+      "description": "Standard respectful farewell"
+    },
+    "Nalla Irukkiyala": {
+      "tamil": "நல்ல இருக்கியா",
+      "english": "Are you well?",
+      "description": "Specific polite inquiry"
+    },
+    "Ammani": {
+      "tamil": "அம்மணி",
+      "english": "Respected Lady",
+      "description": "Traditional Delta address"
+    },
+    "Enna Panni": {
+      "tamil": "என்ன பண்ணி",
+      "english": "What did you do?",
+      "description": "Shortened Delta verb form"
+    },
+    "Rumba": {
+      "tamil": "ரொம்ப",
+      "english": "Very/A lot",
+      "description": "Standard Tamil but pronounced soft in Delta"
+    },
+    "Kadamai": {
+      "tamil": "கடமை",
+      "english": "Duty",
+      "description": "Used formally but sometimes ironically"
+    },
+    "Seringa Aiyya": {
+      "tamil": "சரிங்க ஐயா",
+      "english": "Yes Sir",
+      "description": "Classic polite Delta acceptance"
+    },
+    "Pochu": {
+      "tamil": "போச்சு",
+      "english": "It's gone",
+      "description": "Informal exclamation"
+    },
+    "Kasamusa": {
+      "tamil": "கசமுusa",
+      "english": "Confused/Secretive",
+      "description": "Same as Chennai but used in street slang"
+    },
+    "Thala": {
+      "tamil": "தல",
+      "english": "Leader/Friend",
+      "description": "Widespread youth term"
+    },
+    "Approm": {
+      "tamil": "அப்புறம்",
+      "english": "Later/What else?",
+      "description": "Common connector"
+    },
+    "Vaikurainga": {
+      "tamil": "வைக்கிறாங்க",
+      "english": "They are keeping",
+      "description": "Rural plural suffix influence"
+    },
+    "Vandhanurunga": {
+      "tamil": "வந்தானுருங்க",
+      "english": "They came",
+      "description": "Northern Delta border influence"
+    },
+    "Aagaattum": {
+      "tamil": "ஆகாட்டும்",
+      "english": "Let it be/OK",
+      "description": "Formal Delta acceptance"
+    },
     "da": {
       "tamil": "மயிலாதுரை தமிழ்: தா",
       "english": "Mayiladuthurai Tamil: brother",
@@ -1504,459 +1475,159 @@
     }
   },
   "Nagapattinam": {
-    "appa": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: அண்ணா",
-      "english": "Nagapattinam Tamil: anna",
-      "description": "nan"
-    },
-    "amma": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: அக்கா",
-      "english": "Nagapattinam Tamil: akka",
-      "description": "nan"
-    },
-    "machan": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: தம்பி",
-      "english": "Nagapattinam Tamil: thambi",
-      "description": "nan"
-    },
-    "kaara": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: மீன் வலை",
-      "english": "Nagapattinam Tamil: fishing net",
-      "description": "nan"
-    },
-    "vaalai": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: பெரிய மீன்",
-      "english": "Nagapattinam Tamil: big fish",
-      "description": "nan"
-    },
-    "koduva": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: சூப்பர் மீன்",
-      "english": "Nagapattinam Tamil: barracuda",
-      "description": "nan"
-    },
-    "paara": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: கடல்",
-      "english": "Nagapattinam Tamil: sea",
-      "description": "nan"
-    },
-    "thanni": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: நீர்/இராச்சை",
-      "english": "Nagapattinam Tamil: water/booze",
-      "description": "nan"
-    },
-    "semma": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: ரொம்ப நல்லா",
-      "english": "Nagapattinam Tamil: romba nalla",
-      "description": "nan"
-    },
-    "da": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: ரா",
-      "english": "Nagapattinam Tamil: ra",
-      "description": "nan"
-    },
-    "nel": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: அரிசி",
-      "english": "Nagapattinam Tamil: paddy",
-      "description": "nan"
-    },
-    "thotta": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: வயல்",
-      "english": "Nagapattinam Tamil: field",
-      "description": "nan"
-    },
-    "ezhu": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: நடு",
-      "english": "Nagapattinam Tamil: transplant",
-      "description": "nan"
-    },
-    "kara": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: காரமா",
-      "english": "Nagapattinam Tamil: spicy",
-      "description": "nan"
-    },
-    "kuchi": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: சின்ன",
-      "english": "Nagapattinam Tamil: small",
-      "description": "nan"
-    },
-    "periya": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: பெருசா",
-      "english": "Nagapattinam Tamil: big",
-      "description": "nan"
-    },
-    "sari": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: ஓகே",
-      "english": "Nagapattinam Tamil: okay",
-      "description": "nan"
-    },
-    "enna": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: என்னடா",
-      "english": "Nagapattinam Tamil: what da",
-      "description": "nan"
-    },
-    "po": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: போ",
-      "english": "Nagapattinam Tamil: go",
-      "description": "nan"
-    },
-    "deva": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: கடவுள்",
-      "english": "Nagapattinam Tamil: god",
-      "description": "nan"
-    },
-    "koil": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: கோயில்",
-      "english": "Nagapattinam Tamil: temple",
-      "description": "nan"
-    },
-    "pooja": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: பூஜை",
-      "english": "Nagapattinam Tamil: worship",
-      "description": "nan"
-    },
-    "rupee": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: ரூபா",
-      "english": "Nagapattinam Tamil: rupee",
-      "description": "nan"
-    },
-    "kilo": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: கிலோ",
-      "english": "Nagapattinam Tamil: kilo",
-      "description": "nan"
-    },
-    "pottu": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: பாக்கெட்",
-      "english": "Nagapattinam Tamil: packet",
-      "description": "nan"
-    },
-    "thatha": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: தாத்தா",
-      "english": "Nagapattinam Tamil: grandpa",
-      "description": "nan"
-    },
-    "paati": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: பாட்டி",
-      "english": "Nagapattinam Tamil: grandma",
-      "description": "nan"
-    },
-    "kuzhandhai": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: குழந்தை",
-      "english": "Nagapattinam Tamil: child",
-      "description": "nan"
-    },
-    "santhosham": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: சந்தோஷம்",
-      "english": "Nagapattinam Tamil: happiness",
-      "description": "nan"
-    },
-    "valimai": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: வலி",
-      "english": "Nagapattinam Tamil: pain",
-      "description": "nan"
-    },
-    "bhayam": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: பயம்",
-      "english": "Nagapattinam Tamil: fear",
-      "description": "nan"
-    },
-    "kaalam": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: காலம்",
-      "english": "Nagapattinam Tamil: time",
-      "description": "nan"
-    },
-    "velai": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: வேலை",
-      "english": "Nagapattinam Tamil: work",
-      "description": "nan"
-    },
-    "rest": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: ஓய்வு",
-      "english": "Nagapattinam Tamil: rest",
-      "description": "nan"
-    },
-    "sambar": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: சாம்பார்",
-      "english": "Nagapattinam Tamil: sambar",
-      "description": "nan"
-    },
-    "rasam": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: ரசம்",
-      "english": "Nagapattinam Tamil: rasam",
-      "description": "nan"
-    },
-    "koolu": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: கூல்",
-      "english": "Nagapattinam Tamil: fish curry",
-      "description": "nan"
-    },
-    "white": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: வெள்ளை",
-      "english": "Nagapattinam Tamil: white",
-      "description": "nan"
-    },
-    "black": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: கருப்பு",
-      "english": "Nagapattinam Tamil: black",
-      "description": "nan"
-    },
-    "red": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: சிவப்பு",
-      "english": "Nagapattinam Tamil: red",
-      "description": "nan"
-    },
-    "onnu": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: ஒன்னு",
-      "english": "Nagapattinam Tamil: one",
-      "description": "nan"
-    },
-    "randu": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: ரெண்டு",
-      "english": "Nagapattinam Tamil: two",
-      "description": "nan"
-    },
-    "moonnu": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: மூணு",
-      "english": "Nagapattinam Tamil: three",
-      "description": "nan"
-    },
-    "velankanni": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: வேலங்கன்னி",
-      "english": "Nagapattinam Tamil: Velankanni",
-      "description": "nan"
-    },
-    "nagore": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: நகூர்",
-      "english": "Nagapattinam Tamil: Nagore",
-      "description": "nan"
-    },
-    "thalainayar": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: தலையனாய்க்கல்",
-      "english": "Nagapattinam Tamil: Thalainayir",
-      "description": "nan"
-    },
-    "mazhai": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: மழை",
-      "english": "Nagapattinam Tamil: rain",
-      "description": "nan"
-    },
-    "sooriya": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: சூரியன்",
-      "english": "Nagapattinam Tamil: sun",
-      "description": "nan"
-    },
-    "kaattru": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: காற்று",
-      "english": "Nagapattinam Tamil: wind",
-      "description": "nan"
-    },
-    "maan": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: மான்",
-      "english": "Nagapattinam Tamil: deer",
-      "description": "nan"
-    },
-    "puli": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: புலி",
-      "english": "Nagapattinam Tamil: tiger",
-      "description": "nan"
-    },
-    "aandhai": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: ஆந்தை",
-      "english": "Nagapattinam Tamil: snake",
-      "description": "nan"
-    },
-    "kai": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: கை",
-      "english": "Nagapattinam Tamil: hand",
-      "description": "nan"
-    },
-    "kaal": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: கால்",
-      "english": "Nagapattinam Tamil: leg",
-      "description": "nan"
-    },
-    "naakku": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: நாக்கு",
-      "english": "Nagapattinam Tamil: tongue",
-      "description": "nan"
-    },
-    "veshti": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: வேட்டி",
-      "english": "Nagapattinam Tamil: dhoti",
-      "description": "nan"
-    },
-    "saree": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: சேலை",
-      "english": "Nagapattinam Tamil: saree",
-      "description": "nan"
-    },
-    "shirt": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: சட்டை",
-      "english": "Nagapattinam Tamil: shirt",
-      "description": "nan"
-    },
-    "kathi": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: கத்தி",
-      "english": "Nagapattinam Tamil: knife",
-      "description": "nan"
-    },
-    "kuduvai": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: குடுவை",
-      "english": "Nagapattinam Tamil: sickle",
-      "description": "nan"
-    },
-    "mannvaai": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: மண்ண்வாய்",
-      "english": "Nagapattinam Tamil: spade",
-      "description": "nan"
-    },
-    "cycle": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: சைக்கிள்",
-      "english": "Nagapattinam Tamil: cycle",
-      "description": "nan"
-    },
-    "bus": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: பஸ்",
-      "english": "Nagapattinam Tamil: bus",
-      "description": "nan"
-    },
-    "train": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: ட்ரைன்",
-      "english": "Nagapattinam Tamil: train",
-      "description": "nan"
-    },
-    "padam": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: படம்",
-      "english": "Nagapattinam Tamil: study",
-      "description": "nan"
-    },
-    "master": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: மாஸ்டர்",
-      "english": "Nagapattinam Tamil: teacher",
-      "description": "nan"
-    },
-    "exam": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: எக்ஸாம்",
-      "english": "Nagapattinam Tamil: exam",
-      "description": "nan"
-    },
-    "vaidyam": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: மருந்து",
-      "english": "Nagapattinam Tamil: medicine",
-      "description": "nan"
-    },
-    "doctor": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: டாக்டர்",
-      "english": "Nagapattinam Tamil: doctor",
-      "description": "nan"
-    },
-    "hospital": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: ஆஸ்பத்திரி",
-      "english": "Nagapattinam Tamil: hospital",
-      "description": "nan"
-    },
-    "market": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: சந்தை",
-      "english": "Nagapattinam Tamil: market",
-      "description": "nan"
-    },
-    "shop": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: கடை",
-      "english": "Nagapattinam Tamil: shop",
-      "description": "nan"
-    },
-    "road": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: தெரு",
-      "english": "Nagapattinam Tamil: street",
-      "description": "nan"
-    },
-    "house": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: வீடு",
-      "english": "Nagapattinam Tamil: house",
-      "description": "nan"
-    },
-    "door": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: தாழ்வார்த்தகம்",
-      "english": "Nagapattinam Tamil: door",
-      "description": "nan"
-    },
-    "window": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: ஜன்னல்",
-      "english": "Nagapattinam Tamil: window",
-      "description": "nan"
-    },
-    "light": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: விளக்கு",
-      "english": "Nagapattinam Tamil: light",
-      "description": "nan"
-    },
-    "fan": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: ஃபேன்",
-      "english": "Nagapattinam Tamil: fan",
-      "description": "nan"
-    },
-    "tv": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: டிவி",
-      "english": "Nagapattinam Tamil: TV",
-      "description": "nan"
-    },
-    "radio": {
-      "tamil": "நாகப்பட்டினம் தமிழ்: ரேடியோ",
-      "english": "Nagapattinam Tamil: radio",
-      "description": "nan"
+    "Aiyya": {
+      "tamil": "அய்யா",
+      "english": "Father/Elder",
+      "description": "Respectful Delta specific address"
+    },
+    "Saami": {
+      "tamil": "சாமி",
+      "english": "Sir/Elder",
+      "description": "Used to address elders (Delta tradition)"
+    },
+    "Enna-re": {
+      "tamil": "என்னாரே",
+      "english": "What/Brother",
+      "description": "Delta informal greeting"
+    },
+    "Varen-re": {
+      "tamil": "வாரேன்னே",
+      "english": "I am coming",
+      "description": "Delta/Nagapattinam common farewell"
+    },
+    "Anguttu": {
+      "tamil": "அங்குட்டு",
+      "english": "That side",
+      "description": "Direction marker"
+    },
+    "Inguttu": {
+      "tamil": "இங்குட்டு",
+      "english": "This side",
+      "description": "Direction marker"
+    },
+    "Pannu-nga": {
+      "tamil": "பண்ணுங்க",
+      "english": "Do it",
+      "description": "Respectful suffix 'nga' in Delta belt"
+    },
+    "Achi": {
+      "tamil": "ஆச்சி",
+      "english": "Elder woman/Aunt",
+      "description": "Delta specific address"
+    },
+    "Mappu": {
+      "tamil": "மாப்பு",
+      "english": "Friend",
+      "description": "Machan/Mappillai variation"
+    },
+    "Apparu": {
+      "tamil": "அப்பாரு",
+      "english": "Father",
+      "description": "Delta region variation for dad/elders"
     }
   },
   "Namakkal": {
-    "da": {
-      "tamil": "namakkal_tamil_da",
-      "english": "Namakkal Tamil: brother",
-      "description": "nan"
+    "Nga": {
+      "tamil": "ங்க",
+      "english": "Respectful suffix",
+      "description": "Universal Kongu polite ending"
     },
-    "ayya": {
-      "tamil": "namakkal_tamil_ayya",
-      "english": "Namakkal Tamil: sir",
-      "description": "nan"
+    "Yembi": {
+      "tamil": "எம்பி",
+      "english": "Brother",
+      "description": "Addresses younger brother or male friend"
     },
-    "machan": {
-      "tamil": "namakkal_tamil_machan",
-      "english": "Namakkal Tamil: buddy",
-      "description": "nan"
+    "Ennathu-nga": {
+      "tamil": "என்னதுங்க",
+      "english": "What",
+      "description": "Kongu/Namakkal way of asking"
     },
-    "town": {
-      "tamil": "namakkal_tamil_town",
-      "english": "Namakkal Tamil: town",
-      "description": "nan"
+    "Sollunga-nga": {
+      "tamil": "சொல்லுங்கங்க",
+      "english": "Tell me",
+      "description": "Double 'nga' for added politeness/rhythm"
     },
-    "industry": {
-      "tamil": "namakkal_tamil_industry",
-      "english": "Namakkal Tamil: industry",
-      "description": "nan"
+    "Anguttu": {
+      "tamil": "அங்குட்டு",
+      "english": "That side",
+      "description": "Wait/Go that way"
+    },
+    "Inguttu": {
+      "tamil": "இங்குட்டு",
+      "english": "This side",
+      "description": "Come this way"
+    },
+    "Maappu": {
+      "tamil": "மாப்பு",
+      "english": "Machan/Friend",
+      "description": "Addressing a peer"
+    },
+    "Inthu": {
+      "tamil": "இந்து",
+      "english": "This",
+      "description": "Kongu variant for 'Intha'"
+    },
+    "Anthu": {
+      "tamil": "அந்து",
+      "english": "That",
+      "description": "Kongu variant for 'Antha'"
+    },
+    "Kudu": {
+      "tamil": "குடு",
+      "english": "Give",
+      "description": "Used in a specific local tone in Namakkal/Salem belt"
     }
   },
   "Nilgiris": {
-    "da": {
-      "tamil": "nilgiris_tamil_da",
-      "english": "Nilgiris Tamil: brother",
-      "description": "nan"
+    "Nga": {
+      "tamil": "ங்க",
+      "english": "Respectful suffix",
+      "description": "Universal polite ending"
     },
-    "ayya": {
-      "tamil": "nilgiris_tamil_ayya",
-      "english": "Nilgiris Tamil: sir",
-      "description": "nan"
+    "Kudu": {
+      "tamil": "குடு",
+      "english": "Give/Put",
+      "description": "Hill station influence/common slang"
     },
-    "machan": {
-      "tamil": "nilgiris_tamil_machan",
-      "english": "Nilgiris Tamil: buddy",
-      "description": "nan"
+    "Maappu": {
+      "tamil": "மாப்பு",
+      "english": "Friend",
+      "description": "Machan/Mappillai variation"
     },
-    "mountain": {
-      "tamil": "nilgiris_tamil_mountain",
-      "english": "Nilgiris Tamil: mountain",
-      "description": "nan"
+    "Angutu": {
+      "tamil": "அங்குட்டு",
+      "english": "That side",
+      "description": "Direction marker"
     },
-    "cool": {
-      "tamil": "nilgiris_tamil_cool",
-      "english": "Nilgiris Tamil: cool",
-      "description": "nan"
+    "Ingutu": {
+      "tamil": "இங்குட்டு",
+      "english": "This side",
+      "description": "Direction marker"
+    },
+    "Hattu": {
+      "tamil": "ஹாட்டு",
+      "english": "Place/Village",
+      "description": "Badaga/Hill station slang influence"
+    },
+    "Amma-re": {
+      "tamil": "அம்மாரே",
+      "english": "Mother/Elder lady",
+      "description": "Hill station local term"
+    },
+    "Vren-nga": {
+      "tamil": "வ்ரேன்ங்க",
+      "english": "Coming",
+      "description": "Variant of Varugiren"
+    },
+    "Pannu-re": {
+      "tamil": "பண்ணுரே",
+      "english": "Do it",
+      "description": "Hill station informal variation"
+    },
+    "Enna-ppa": {
+      "tamil": "என்னப்பா",
+      "english": "What friend",
+      "description": "General Nilgiris greeting for peers"
     }
   },
   "Perambalur": {
@@ -1987,57 +1658,107 @@
     }
   },
   "Pudukottai": {
-    "da": {
-      "tamil": "pudukottai_da",
-      "english": "Pudukottai Tamil: brother",
-      "description": "nan"
+    "Achi": {
+      "tamil": "ஆச்சி",
+      "english": "Grandmother/Elder woman",
+      "description": "Respectful address (Transitions to Delta)"
     },
-    "ayya": {
-      "tamil": "pudukottai_ayya",
-      "english": "Pudukottai Tamil: sir",
-      "description": "nan"
+    "Embi": {
+      "tamil": "எம்பி",
+      "english": "Younger brother",
+      "description": "Addressing younger males affectionately"
     },
-    "machan": {
-      "tamil": "pudukottai_machan",
-      "english": "Pudukottai Tamil: buddy",
-      "description": "nan"
+    "Nga": {
+      "tamil": "ங்க",
+      "english": "Respectful suffix",
+      "description": "Kongu influence (Western part)"
     },
-    "temple": {
-      "tamil": "pudukottai_temple",
-      "english": "Pudukottai Tamil: temple",
-      "description": "nan"
+    "Aiyya": {
+      "tamil": "அய்யா",
+      "english": "Father/Self",
+      "description": "Pudukottai tradition"
     },
-    "festival": {
-      "tamil": "pudukottai_festival",
-      "english": "Pudukottai Tamil: festival",
-      "description": "nan"
+    "Mappu": {
+      "tamil": "மாப்பு",
+      "english": "Friend",
+      "description": "Machan/Mappillai variation"
+    },
+    "Angutu": {
+      "tamil": "அங்குட்டு",
+      "english": "That side",
+      "description": "Direction marker"
+    },
+    "Ingutu": {
+      "tamil": "இங்குட்டு",
+      "english": "This side",
+      "description": "Direction marker"
+    },
+    "Vren-re": {
+      "tamil": "வ்ரேன்ரே",
+      "english": "Coming",
+      "description": "Pudukottai common suffix"
+    },
+    "Sollu-mbu": {
+      "tamil": "சொல்லும்பு",
+      "english": "Tell",
+      "description": "Pudukottai/Central variation"
+    },
+    "Poitu-vren-nga": {
+      "tamil": "போயிட்டு வ்ரேன்ங்க",
+      "english": "Goodbye",
+      "description": "Respectful farewell transition"
     }
   },
   "Ramanathapuram": {
-    "da": {
-      "tamil": "ramanathapuram_da",
-      "english": "Ramanathapuram Tamil: brother",
-      "description": "nan"
+    "Achi": {
+      "tamil": "ஆச்சி",
+      "english": "Grandmother/Elder woman",
+      "description": "Respectful address for all elder women"
     },
-    "ayya": {
-      "tamil": "ramanathapuram_ayya",
-      "english": "Ramanathapuram Tamil: sir",
-      "description": "nan"
+    "Embi": {
+      "tamil": "எம்பி",
+      "english": "Younger brother",
+      "description": "Addressing younger males affectionately"
     },
-    "machan": {
-      "tamil": "ramanathapuram_machan",
-      "english": "Ramanathapuram Tamil: buddy",
-      "description": "nan"
+    "Vaada-mbu": {
+      "tamil": "வாடாம்பு",
+      "english": "Come friend",
+      "description": "Local variation for friends"
     },
-    "salt": {
-      "tamil": "ramanathapuram_salt",
-      "english": "Ramanathapuram Tamil: salt",
-      "description": "nan"
+    "Enna-ppa": {
+      "tamil": "என்னப்பா",
+      "english": "What friend/dad",
+      "description": "Dual use for dad and friends"
     },
-    "ocean": {
-      "tamil": "ramanathapuram_ocean",
-      "english": "Ramanathapuram Tamil: ocean",
-      "description": "nan"
+    "Kandru": {
+      "tamil": "கன்று",
+      "english": "Child/Son/Daughter",
+      "description": "Affectionate term for youth"
+    },
+    "Uruppadi": {
+      "tamil": "உருப்படி",
+      "english": "One unit/Thing",
+      "description": "Commonly used for specific items"
+    },
+    "Pichuvren": {
+      "tamil": "பிச்சுவ்றேன்",
+      "english": "I'll beat you",
+      "description": "Local common threat/informal"
+    },
+    "Thirumba": {
+      "tamil": "திரும்ப",
+      "english": "Again",
+      "description": "Specific tone used in Ramnad region"
+    },
+    "Vaaren-ne": {
+      "tamil": "வாரேன்னே",
+      "english": "I am coming brother",
+      "description": "Southern-most common greeting/farewell"
+    },
+    "Aiyya": {
+      "tamil": "அய்யா",
+      "english": "Father/Self",
+      "description": "Specific to certain communities in Ramnad/Sivaganga"
     }
   },
   "Ranipet": {
@@ -2068,57 +1789,107 @@
     }
   },
   "Salem": {
-    "da": {
-      "tamil": "salem_da",
-      "english": "Salem Tamil: brother",
-      "description": "nan"
+    "Nga": {
+      "tamil": "ங்க",
+      "english": "Respectful suffix",
+      "description": "Added even to small verbs (e.g. Sola-nga)"
     },
-    "ayya": {
-      "tamil": "salem_ayya",
-      "english": "Salem Tamil: sir",
-      "description": "nan"
+    "Angutu": {
+      "tamil": "அங்குட்டு",
+      "english": "That side",
+      "description": "Regional variant of 'Antha pakkam'"
     },
-    "machan": {
-      "tamil": "salem_machan",
-      "english": "Salem Tamil: buddy",
-      "description": "nan"
+    "Ingutu": {
+      "tamil": "இங்குட்டு",
+      "english": "This side",
+      "description": "Regional variant of 'Intha pakkam'"
     },
-    "textile": {
-      "tamil": "salem_textile",
-      "english": "Salem Tamil: textile",
-      "description": "nan"
+    "Yembi": {
+      "tamil": "எம்பி",
+      "english": "Brother",
+      "description": "Informal way to address a younger brother or peer"
     },
-    "city": {
-      "tamil": "salem_city",
-      "english": "Salem Tamil: city",
-      "description": "nan"
+    "Poitu-vren-nga": {
+      "tamil": "போயிட்டு வ்ரேன்ங்க",
+      "english": "Goodbye",
+      "description": "Vibrant Kongu polite farewell"
+    },
+    "Sollu-mbu": {
+      "tamil": "சொல்லும்பு",
+      "english": "Tell",
+      "description": "Regional way of saying 'Sollu'"
+    },
+    "Dhakka": {
+      "tamil": "தக்கா",
+      "english": "Elder sister",
+      "description": "Kongu/Salem specific address for sister"
+    },
+    "Maappu": {
+      "tamil": "மாப்பு",
+      "english": "Friend",
+      "description": "Short for Mappillai very common among peers"
+    },
+    "Enna-re": {
+      "tamil": "என்னாரே",
+      "english": "What/How",
+      "description": "Salem variant of asking what is happening"
+    },
+    "Ammoru": {
+      "tamil": "அம்மோரு",
+      "english": "Mother",
+      "description": "Local Kongu term for mom"
     }
   },
   "Sivaganga": {
-    "da": {
-      "tamil": "sivaganga_da",
-      "english": "Sivaganga Tamil: brother",
-      "description": "nan"
+    "Achi": {
+      "tamil": "ஆச்சி",
+      "english": "Grandmother/Elder woman",
+      "description": "Respectful address for all elder women"
     },
-    "ayya": {
-      "tamil": "sivaganga_ayya",
-      "english": "Sivaganga Tamil: sir",
-      "description": "nan"
+    "Embi": {
+      "tamil": "எம்பி",
+      "english": "Younger brother",
+      "description": "Addressing younger males affectionately"
     },
-    "machan": {
-      "tamil": "sivaganga_machan",
-      "english": "Sivaganga Tamil: buddy",
-      "description": "nan"
+    "Machan-re": {
+      "tamil": "மச்சான்ரே",
+      "english": "Buddy",
+      "description": "Southern/Chettinad region variation"
     },
-    "agriculture": {
-      "tamil": "sivaganga_agriculture",
-      "english": "Sivaganga Tamil: agriculture",
-      "description": "nan"
+    "Sollu-mbu": {
+      "tamil": "சொல்லும்பு",
+      "english": "Tell",
+      "description": "Regional informal variation"
     },
-    "farming": {
-      "tamil": "sivaganga_farming",
-      "english": "Sivaganga Tamil: farming",
-      "description": "nan"
+    "Kandru": {
+      "tamil": "கன்று",
+      "english": "Son/Daughter",
+      "description": "Affectionate term for youth"
+    },
+    "Ambum": {
+      "tamil": "அம்பும்",
+      "english": "Everything/All",
+      "description": "Southern-most slang for total/all"
+    },
+    "Pannu-mbu": {
+      "tamil": "பண்ணும்பு",
+      "english": "Do it",
+      "description": "Regional informal variation"
+    },
+    "Angutu": {
+      "tamil": "அங்குட்டு",
+      "english": "That side",
+      "description": "Direction marker"
+    },
+    "Ingutu": {
+      "tamil": "இங்குட்டு",
+      "english": "This side",
+      "description": "Direction marker"
+    },
+    "Aiyya": {
+      "tamil": "அய்யா",
+      "english": "Father/Self",
+      "description": "Specific to certain communities in Sivaganga/Delta border"
     }
   },
   "Tenkasi": {
@@ -2149,30 +1920,105 @@
     }
   },
   "Thanjavur": {
-    "da": {
-      "tamil": "thanjavur_da",
-      "english": "Thanjavur Tamil: brother",
-      "description": "nan"
+    "Saapdu": {
+      "tamil": "சாப்புடு",
+      "english": "Eat",
+      "description": "Common Delta Tamil pronunciation"
     },
-    "ayya": {
-      "tamil": "thanjavur_ayya",
-      "english": "Thanjavur Tamil: sir",
-      "description": "nan"
+    "Vaanga Aiyya": {
+      "tamil": "வாங்க ஐயா",
+      "english": "Welcome Sir",
+      "description": "Respectful Delta address (Aiyya style)"
     },
-    "machan": {
-      "tamil": "thanjavur_machan",
-      "english": "Thanjavur Tamil: buddy",
-      "description": "nan"
+    "Nalla Irukkiya": {
+      "tamil": "நல்ல இருக்கியா",
+      "english": "Are you well?",
+      "description": "Standard respectful Delta greeting"
     },
-    "rice": {
-      "tamil": "thanjavur_rice",
-      "english": "Thanjavur Tamil: rice",
-      "description": "nan"
+    "Vandhittaarayya": {
+      "tamil": "வந்துட்டாரையா",
+      "english": "He has come",
+      "description": "Aiyya suffix for respect common in Delta"
     },
-    "temple": {
-      "tamil": "thanjavur_temple",
-      "english": "Thanjavur Tamil: temple",
-      "description": "nan"
+    "Ammani": {
+      "tamil": "அம்மணி",
+      "english": "Respected Lady",
+      "description": "Traditional Delta term for a woman"
+    },
+    "Yov": {
+      "tamil": "யோவ்",
+      "english": "Hey You (Male)",
+      "description": "Informal Delta address"
+    },
+    "Enna Panni": {
+      "tamil": "என்ன பண்ணி",
+      "english": "What did you do?",
+      "description": "Specific shortening in Delta Tamil"
+    },
+    "Konjam": {
+      "tamil": "கொஞ்சம்",
+      "english": "A little/Bit",
+      "description": "Standard Tamil but pronounced soft in Delta"
+    },
+    "Sema Gethu": {
+      "tamil": "செம கெத்து",
+      "english": "Great Attitude",
+      "description": "Modern youth slang in Delta"
+    },
+    "Adangappa": {
+      "tamil": "அடங்கப்பா",
+      "english": "My god/Wow",
+      "description": "Surprise expression"
+    },
+    "Thala": {
+      "tamil": "தல",
+      "english": "Leader/Boss",
+      "description": "Common youth address for respected friends"
+    },
+    "Paiya": {
+      "tamil": "பைய",
+      "english": "Slowly/Carefully",
+      "description": "Used in general but refined in Delta"
+    },
+    "Mattu": {
+      "tamil": "மட்டு",
+      "english": "Only",
+      "description": "Standard but spoken with distinct Delta rhythm"
+    },
+    "Innum Enna": {
+      "tamil": "இன்னும் என்ன",
+      "english": "What else?",
+      "description": "Common conversation filler"
+    },
+    "Aagaattum": {
+      "tamil": "ஆகாட்டும்",
+      "english": "Let it be/Alright",
+      "description": "Aiyya-style formal acceptance"
+    },
+    "Pochu": {
+      "tamil": "போச்சு",
+      "english": "Gone",
+      "description": "Common expression when something ends"
+    },
+    "Summa": {
+      "tamil": "சும்மா",
+      "english": "Just/Simply",
+      "description": "Classic Delta conversational word"
+    },
+    "Amma": {
+      "tamil": "அம்மா",
+      "english": "Mother/Respectful address",
+      "description": "Often used at end of sentences"
+    },
+    "Paavam": {
+      "tamil": "பாவம்",
+      "english": "Pity/Shame",
+      "description": "Emotive Delta expression"
+    },
+    "Seringa": {
+      "tamil": "சரிங்க",
+      "english": "Yes/Alright",
+      "description": "Respectful 'Yes' common in Delta regions"
     }
   },
   "Theni": {
@@ -2203,139 +2049,214 @@
     }
   },
   "Thoothukudi": {
-    "da": {
-      "tamil": "thoothukudi_da",
-      "english": "Thoothukudi Tamil: brother",
-      "description": "nan"
+    "Lede": {
+      "tamil": "லேடே",
+      "english": "Brother/Friend",
+      "description": "Thoothukudi shoreline influence (Hey)"
     },
-    "ayya": {
-      "tamil": "thoothukudi_ayya",
-      "english": "Thoothukudi Tamil: sir",
-      "description": "nan"
+    "Aai": {
+      "tamil": "ஆய்",
+      "english": "Mother",
+      "description": "Fishermen/Coastal slang for mom"
     },
-    "machan": {
-      "tamil": "thoothukudi_machan",
-      "english": "Thoothukudi Tamil: buddy",
-      "description": "nan"
+    "Appa": {
+      "tamil": "அப்பா",
+      "english": "Father/Sir",
+      "description": "Coastal variation"
     },
-    "salt": {
-      "tamil": "thoothukudi_salt",
-      "english": "Thoothukudi Tamil: salt",
-      "description": "nan"
+    "Karamu": {
+      "tamil": "கரமு",
+      "english": "Anchor/Rope",
+      "description": "Maritime influence in daily slang"
     },
-    "port": {
-      "tamil": "thoothukudi_port",
-      "english": "Thoothukudi Tamil: port",
-      "description": "nan"
+    "Meenu": {
+      "tamil": "மீனு",
+      "english": "Fish/Easy catch",
+      "description": "Sometimes used for easy money/goal"
     },
-    "Kadalkarai": {
-      "tamil": "தூத்துக்குடி தமிழ்: கடற்கரை",
-      "english": "Thoothukudi Tamil: Beach",
-      "description": "Common reference in pearl city"
+    "Thorthu": {
+      "tamil": "தோர்த்து",
+      "english": "Towel",
+      "description": "Malayalam/Coastal influence"
     },
-    "Muthu": {
-      "tamil": "தூத்துக்குடி தமிழ்: முத்து",
-      "english": "Thoothukudi Tamil: Pearl",
-      "description": "Local pride slang"
+    "Uruvi": {
+      "tamil": "உருவி",
+      "english": "Taken/Pulled",
+      "description": "Pulled/Taken away something quickly"
     },
-    "Karaivan": {
-      "tamil": "தூத்துக்குடி தமிழ்: கரைவான்",
-      "english": "Thoothukudi Tamil: Shore-man",
-      "description": "Fisherman slang"
+    "Vaada-re": {
+      "tamil": "வாடாரே",
+      "english": "Come brother",
+      "description": "Suffix 're' common in Southern coast"
     },
-    "Uppalam": {
-      "tamil": "தூத்துக்குடி தமிழ்: உப்பளம்",
-      "english": "Thoothukudi Tamil: Salt pan",
-      "description": "Common workplace reference"
+    "Kaikula": {
+      "tamil": "கைகுல",
+      "english": "In hand",
+      "description": "Refers to fishing nets/daily earnings"
     },
-    "Sarakku": {
-      "tamil": "தூத்துக்குடி தமிழ்: சரக்கு",
-      "english": "Thoothukudi Tamil: Goods/Stuff",
-      "description": "Generic slang for items"
+    "Appolthulla": {
+      "tamil": "அப்பொள்துல்லா",
+      "english": "Then/At that time",
+      "description": "Coastal Kumaresan influence"
     }
   },
   "Tiruchirappalli": {
-    "da": {
-      "tamil": "tiruchirappalli_da",
-      "english": "Tiruchirappalli Tamil: brother",
-      "description": "nan"
+    "Nga": {
+      "tamil": "ங்க",
+      "english": "Respectful suffix",
+      "description": "Universal polite ending"
     },
-    "ayya": {
-      "tamil": "tiruchirappalli_ayya",
-      "english": "Tiruchirappalli Tamil: sir",
-      "description": "nan"
+    "Aiyya": {
+      "tamil": "அய்யா",
+      "english": "Father/Elder",
+      "description": "Respectful Central address"
     },
-    "machan": {
-      "tamil": "tiruchirappalli_machan",
-      "english": "Tiruchirappalli Tamil: buddy",
-      "description": "nan"
+    "Achi": {
+      "tamil": "ஆச்சி",
+      "english": "Elder woman/Aunt",
+      "description": "Central specific address"
     },
-    "temple": {
-      "tamil": "tiruchirappalli_temple",
-      "english": "Tiruchirappalli Tamil: temple",
-      "description": "nan"
+    "Mappu": {
+      "tamil": "மாப்பு",
+      "english": "Friend",
+      "description": "Machan/Mappillai variation"
     },
-    "city": {
-      "tamil": "tiruchirappalli_city",
-      "english": "Tiruchirappalli Tamil: city",
-      "description": "nan"
+    "Angutu": {
+      "tamil": "அங்குட்டு",
+      "english": "That side",
+      "description": "Direction marker"
+    },
+    "Ingutu": {
+      "tamil": "இங்குட்டு",
+      "english": "This side",
+      "description": "Direction marker"
+    },
+    "Vren-nga": {
+      "tamil": "வ்ரேன்ங்க",
+      "english": "Coming",
+      "description": "Central Trichy formal variant"
+    },
+    "Enna-re": {
+      "tamil": "என்னாரே",
+      "english": "What/Brother",
+      "description": "Central informal greeting"
+    },
+    "Sollunga-nga": {
+      "tamil": "சொல்லுங்கங்க",
+      "english": "Tell me",
+      "description": "Double 'nga' for added politeness"
+    },
+    "Apparu": {
+      "tamil": "அப்பாரு",
+      "english": "Father",
+      "description": "Central region variation for dad/elders"
     }
   },
   "Tirunelveli": {
-    "da": {
-      "tamil": "tirunelveli_da",
-      "english": "Tirunelveli Tamil: brother",
-      "description": "nan"
+    "Vanthutiya-Pola": {
+      "tamil": "வந்துட்டியா போல",
+      "english": "Did you come?",
+      "description": "Asking if someone arrived with Nellai dialect"
     },
-    "ayya": {
-      "tamil": "tirunelveli_ayya",
-      "english": "Tirunelveli Tamil: sir",
-      "description": "nan"
+    "Le": {
+      "tamil": "லே",
+      "english": "Friend/Brother",
+      "description": "Classic Nellai suffix added to call anyone"
     },
-    "machan": {
-      "tamil": "tirunelveli_machan",
-      "english": "Tirunelveli Tamil: buddy",
-      "description": "nan"
+    "Ennala-Le": {
+      "tamil": "என்னல லே",
+      "english": "What's up buddy?",
+      "description": "Typical greeting for a guy"
     },
-    "temple": {
-      "tamil": "tirunelveli_temple",
-      "english": "Tirunelveli Tamil: temple",
-      "description": "nan"
+    "Solluda": {
+      "tamil": "சொல்லுடா",
+      "english": "Tell me friend",
+      "description": "Casual request to speak"
     },
-    "spice": {
-      "tamil": "tirunelveli_spice",
-      "english": "Tirunelveli Tamil: spice",
-      "description": "nan"
+    "Nalla Karai-Le": {
+      "tamil": "நல்ல கரை லே",
+      "english": "Good thing buddy",
+      "description": "Used to show appreciation or relief"
     },
-    "Yele": {
-      "tamil": "Tirunelveli தமிழ்: ஏலே",
-      "english": "Tirunelveli Tamil: Hey Buddy",
-      "description": "The absolute signature Nellai slang"
+    "Vanthaala-Le": {
+      "tamil": "வந்தாலா லே",
+      "english": "Did she come?",
+      "description": "Questioning about a girl in Nellai slang"
     },
-    "Annachi": {
-      "tamil": "Tirunelveli தமிழ்: அண்ணாச்சி",
-      "english": "Tirunelveli Tamil: Elder/Respected",
-      "description": "How elders are addressed in Nellai/Tuticorin"
+    "Ponaaya-Le": {
+      "tamil": "போனாயா லே",
+      "english": "Did you go buddy?",
+      "description": "Querying about travel"
     },
-    "Vekkai": {
-      "tamil": "Tirunelveli தமிழ்: வெக்கை",
-      "english": "Tirunelveli Tamil: Humidity",
-      "description": "Refers to the unique southern heat"
+    "Enga-Le": {
+      "tamil": "எங்க லே",
+      "english": "Where is it buddies?",
+      "description": "Asking about a missing thing or place"
     },
-    "Makkal": {
-      "tamil": "நெல்லை தமிழ்: மக்கள்",
-      "english": "Tirunelveli Tamil: People/Friends",
-      "description": "Nellai way of addressing a group"
+    "Nellai-Tamil": {
+      "tamil": "நெல்லை தமிழ்",
+      "english": "Nellai Tamil",
+      "description": "Identity for the regional dialect"
     },
-    "Thala": {
-      "tamil": "Tirunelveli தமிழ்: தல",
-      "english": "Tirunelveli Tamil: Leader/Mate",
-      "description": "Common street-smart slang used widely in Nellai/Madurai"
+    "Halwa-Maari": {
+      "tamil": "அல்வா மாறி",
+      "english": "Like Halwa",
+      "description": "Smooth/Easy or referring to Tirunelveli Halwa"
     },
-    "Ingeettu": {
-      "tamil": "Tirunelveli தமிழ்: இங்கீட்டு",
-      "english": "Tirunelveli Tamil: Over here",
-      "description": "Specific Nellai directional dialect"
+    "Ayya-Pola": {
+      "tamil": "ஐயா போல",
+      "english": "Is it elder?",
+      "description": "Respectful question"
+    },
+    "Athu-Pola": {
+      "tamil": "அது போல",
+      "english": "Like that",
+      "description": "Frequent filler in Tirunelveli"
+    },
+    "Solluda-Le": {
+      "tamil": "சொல்லுடா லே",
+      "english": "Speak up buddy",
+      "description": "Friendly nudging for more info"
+    },
+    "Nellai-Thamirabarani": {
+      "tamil": "நெல்லை தாமிரபரணி",
+      "english": "Thamirabarani river",
+      "description": "Pride of the region"
+    },
+    "Engu-tu-Pora": {
+      "tamil": "எங்குட்டு போற",
+      "english": "Where are you going?",
+      "description": "Common location search"
+    },
+    "Athu-Irukku-Pola": {
+      "tamil": "அது இருக்கு போல",
+      "english": "It is there probably",
+      "description": "Uncertainty with dialect flair"
+    },
+    "Saapdalam-Le": {
+      "tamil": "சாப்பிடலாம் லே",
+      "english": "Let's eat buddy",
+      "description": "Friendly lunch invitation"
+    },
+    "Thoongalama-Le": {
+      "tamil": "தூங்கலாமா லே",
+      "english": "Can we sleep buddy?",
+      "description": "Casual suggestion"
+    },
+    "Veed-la": {
+      "tamil": "வீட்ல",
+      "english": "At home",
+      "description": "Local pronunciation of 'Vedu'"
+    },
+    "Oru-Nimisham": {
+      "tamil": "ஒரு நிமிஷம்",
+      "english": "One minute",
+      "description": "Simple interruption with local accent"
+    },
+    "En-Le-Ippadi": {
+      "tamil": "ஏன் லே இப்படி",
+      "english": "Why like this buddy?",
+      "description": "Questioning a confusing act"
     }
   },
   "Tirupattur": {
@@ -2366,30 +2287,55 @@
     }
   },
   "Tiruppur": {
-    "da": {
-      "tamil": "tiruppur_da",
-      "english": "Tiruppur Tamil: brother",
-      "description": "nan"
+    "Nga": {
+      "tamil": "ங்க",
+      "english": "Respectful suffix",
+      "description": "Universal Kongu polite ending"
     },
-    "ayya": {
-      "tamil": "tiruppur_ayya",
-      "english": "Tiruppur Tamil: sir",
-      "description": "nan"
+    "Yembi": {
+      "tamil": "எம்பி",
+      "english": "Brother",
+      "description": "Addresses younger brother or male friend"
     },
-    "machan": {
-      "tamil": "tiruppur_machan",
-      "english": "Tiruppur Tamil: buddy",
-      "description": "nan"
+    "Sollu-mbu": {
+      "tamil": "சொல்லும்பு",
+      "english": "Tell",
+      "description": "Tiruppur/Kongu informal command"
     },
-    "textile": {
-      "tamil": "tiruppur_textile",
-      "english": "Tiruppur Tamil: textile",
-      "description": "nan"
+    "Maappu": {
+      "tamil": "மாப்பு",
+      "english": "Friend",
+      "description": "Common suffix for buddy"
     },
-    "city": {
-      "tamil": "tiruppur_city",
-      "english": "Tiruppur Tamil: city",
-      "description": "nan"
+    "Kattu": {
+      "tamil": "கட்டு",
+      "english": "Tie/Pack",
+      "description": "Heavily used in textile contexts (Informal)"
+    },
+    "Vren-nga": {
+      "tamil": "வ்ரேன்ங்க",
+      "english": "Coming",
+      "description": "Variant of Varugiren"
+    },
+    "Angutu": {
+      "tamil": "அங்குட்டு",
+      "english": "That side",
+      "description": "Wait/Go that way"
+    },
+    "Ingutu": {
+      "tamil": "இங்குட்டு",
+      "english": "This side",
+      "description": "Come this way"
+    },
+    "Pannunga-nga": {
+      "tamil": "பண்ணுங்கங்க",
+      "english": "Do it",
+      "description": "Double 'nga' for added politeness/rhythm"
+    },
+    "Ammoru": {
+      "tamil": "அம்மோரு",
+      "english": "Mother",
+      "description": "Regional Southern Kongu term for mom"
     }
   },
   "Tiruvallur": {
@@ -2447,57 +2393,107 @@
     }
   },
   "Tiruvarur": {
-    "da": {
-      "tamil": "tiruvarur_da",
-      "english": "Tiruvarur Tamil: brother",
-      "description": "nan"
+    "Aiyya": {
+      "tamil": "அய்யா",
+      "english": "Father/Elder",
+      "description": "Respectful Delta specific address"
     },
-    "ayya": {
-      "tamil": "tiruvarur_ayya",
-      "english": "Tiruvarur Tamil: sir",
-      "description": "nan"
+    "Saami": {
+      "tamil": "சாமி",
+      "english": "Sir/Elder",
+      "description": "Used to address elders (Delta tradition)"
     },
-    "machan": {
-      "tamil": "tiruvarur_machan",
-      "english": "Tiruvarur Tamil: buddy",
-      "description": "nan"
+    "Enna-re": {
+      "tamil": "என்னாரே",
+      "english": "What/Brother",
+      "description": "Thiruvarur informal greeting"
     },
-    "temple": {
-      "tamil": "tiruvarur_temple",
-      "english": "Tiruvarur Tamil: temple",
-      "description": "nan"
+    "Anguttu": {
+      "tamil": "அங்குட்டு",
+      "english": "That side",
+      "description": "Direction marker"
     },
-    "city": {
-      "tamil": "tiruvarur_city",
-      "english": "Tiruvarur Tamil: city",
-      "description": "nan"
+    "Inguttu": {
+      "tamil": "இங்குட்டு",
+      "english": "This side",
+      "description": "Direction marker"
+    },
+    "Pannu-nga": {
+      "tamil": "பண்ணுங்க",
+      "english": "Do it",
+      "description": "Respectful suffix 'nga' in Delta belt"
+    },
+    "Achi": {
+      "tamil": "ஆச்சி",
+      "english": "Elder woman/Aunt",
+      "description": "Delta specific address"
+    },
+    "Varen-re": {
+      "tamil": "வாரேன்னே",
+      "english": "I am coming",
+      "description": "Thiruvarur common farewell"
+    },
+    "Mappu": {
+      "tamil": "மாப்பு",
+      "english": "Friend",
+      "description": "Machan/Mappillai variation"
+    },
+    "Apparu": {
+      "tamil": "அப்பாரு",
+      "english": "Father",
+      "description": "Delta region variation for dad/elders"
     }
   },
   "Vellore": {
-    "da": {
-      "tamil": "vellore_da",
-      "english": "Vellore Tamil: brother",
-      "description": "nan"
+    "Gethu": {
+      "tamil": "கெத்து",
+      "english": "Style/Attitude",
+      "description": "Common North/Vellore cool factor"
     },
-    "ayya": {
-      "tamil": "vellore_ayya",
-      "english": "Vellore Tamil: sir",
-      "description": "nan"
+    "Kudu": {
+      "tamil": "குடு",
+      "english": "Give/Put",
+      "description": "Kannada influence: Used for putting or giving"
     },
-    "machan": {
-      "tamil": "vellore_machan",
-      "english": "Vellore Tamil: buddy",
-      "description": "nan"
+    "Enna-re": {
+      "tamil": "என்னாரே",
+      "english": "What/Brother",
+      "description": "Northern informal greeting for friends"
     },
-    "fort": {
-      "tamil": "vellore_fort",
-      "english": "Vellore Tamil: fort",
-      "description": "nan"
+    "Naina": {
+      "tamil": "நைனா",
+      "english": "Elder/Sir",
+      "description": "Respectful address for an elder (Chennai influence)"
     },
-    "city": {
-      "tamil": "vellore_city",
-      "english": "Vellore Tamil: city",
-      "description": "nan"
+    "Baadu": {
+      "tamil": "பாடு",
+      "english": "Friend/Buddy",
+      "description": "Common casual address in North Tamil Nadu"
+    },
+    "Bejaar": {
+      "tamil": "பெஜார்",
+      "english": "Trouble/Disturbance",
+      "description": "When something is irritating"
+    },
+    "Chumma-re": {
+      "tamil": "சும்மாரே",
+      "english": "Just simply",
+      "description": "Suffix 're' common in North transition"
+    },
+    "Pannu-re": {
+      "tamil": "பண்ணுரே",
+      "english": "Do it",
+      "description": "North region informal variation"
+    },
+    "Vren": {
+      "tamil": "வ்ரேன்",
+      "english": "Coming",
+      "description": "Short form used in Northern/Vellore belt"
+    },
+    "Thakudu": {
+      "tamil": "தகுடு",
+      "english": "Sheet/Layer",
+      "description": "Slang for something thin or cheap/fake"
     }
   },
   "Viluppuram": {
