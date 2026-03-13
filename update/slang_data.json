@@ -1,0 +1,2367 @@
+{
+  "Chennai": {
+    "machan": {
+      "tamil": "சென்னை தமிழ்: மச்சான்",
+      "english": "Chennai Tamil: buddy",
+      "description": "nan"
+    },
+    "da": {
+      "tamil": "சென்னை தமிழ்: தா",
+      "english": "Chennai Tamil: brother",
+      "description": "nan"
+    },
+    "kettanunga": {
+      "tamil": "சென்னை தமிழ்: கெட்டனுங்க",
+      "english": "Chennai Tamil: guys",
+      "description": "nan"
+    },
+    "payale": {
+      "tamil": "சென்னை தமிழ்: பாயாளே",
+      "english": "Chennai Tamil: foolish guy",
+      "description": "nan"
+    },
+    "semma": {
+      "tamil": "சென்னை தமிழ்: செம்மா",
+      "english": "Chennai Tamil: great",
+      "description": "nan"
+    },
+    "thaan": {
+      "tamil": "சென்னை தமிழ்: தான்",
+      "english": "Chennai Tamil: yourself",
+      "description": "nan"
+    },
+    "koothu": {
+      "tamil": "சென்னை தமிழ்: கூத்து",
+      "english": "Chennai Tamil: drama",
+      "description": "nan"
+    },
+    "mogam": {
+      "tamil": "சென்னை தமிழ்: மோகம்",
+      "english": "Chennai Tamil: craze",
+      "description": "nan"
+    },
+    "appidi": {
+      "tamil": "சென்னை தமிழ்: அப்பிடி",
+      "english": "Chennai Tamil: like that",
+      "description": "nan"
+    },
+    "ennada": {
+      "tamil": "சென்னை தமிழ்: என்னாடா",
+      "english": "Chennai Tamil: what da",
+      "description": "nan"
+    },
+    "sariya": {
+      "tamil": "சென்னை தமிழ்: சரியா",
+      "english": "Chennai Tamil: okay",
+      "description": "nan"
+    },
+    "vandha": {
+      "tamil": "சென்னை தமிழ்: வந்தா",
+      "english": "Chennai Tamil: came",
+      "description": "nan"
+    },
+    "poi": {
+      "tamil": "சென்னை தமிழ்: பொய்",
+      "english": "Chennai Tamil: lie",
+      "description": "nan"
+    },
+    "thakali": {
+      "tamil": "சென்னை தமிழ்: தாக்கலி",
+      "english": "Chennai Tamil: slap/hit",
+      "description": "nan"
+    },
+    "vaanga": {
+      "tamil": "சென்னை தமிழ்: வாங்கா",
+      "english": "Chennai Tamil: come",
+      "description": "nan"
+    },
+    "poda": {
+      "tamil": "சென்னை தமிழ்: போடா",
+      "english": "Chennai Tamil: go away",
+      "description": "nan"
+    },
+    "sollu": {
+      "tamil": "சென்னை தமிழ்: சொல்லு",
+      "english": "Chennai Tamil: tell",
+      "description": "nan"
+    },
+    "unga": {
+      "tamil": "சென்னை தமிழ்: உங்க",
+      "english": "Chennai Tamil: your",
+      "description": "nan"
+    },
+    "enakku": {
+      "tamil": "சென்னை தமிழ்: எனக்கு",
+      "english": "Chennai Tamil: to me",
+      "description": "nan"
+    },
+    "avaruku": {
+      "tamil": "சென்னை தமிழ்: அவருக்கு",
+      "english": "Chennai Tamil: to him/her",
+      "description": "nan"
+    },
+    "mooditu": {
+      "tamil": "சென்னை தமிழ்: முடிச்சுட்டு",
+      "english": "Chennai Tamil: finished",
+      "description": "nan"
+    },
+    "sollittu": {
+      "tamil": "சென்னை தமிழ்: சொல்லிச்சுட்டு",
+      "english": "Chennai Tamil: told",
+      "description": "nan"
+    },
+    "chettai": {
+      "tamil": "சென்னை தமிழ்: செட்டை",
+      "english": "Chennai Tamil: disappointed",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "சென்னை தமிழ்: அய்யா",
+      "english": "Chennai Tamil: sir",
+      "description": "nan"
+    },
+    "tambi": {
+      "tamil": "சென்னை தமிழ்: தம்பி",
+      "english": "Chennai Tamil: brother",
+      "description": "nan"
+    },
+    "amma": {
+      "tamil": "சென்னை தமிழ்: அம்மா",
+      "english": "Chennai Tamil: mom",
+      "description": "nan"
+    },
+    "akka": {
+      "tamil": "சென்னை தமிழ்: அக்கா",
+      "english": "Chennai Tamil: sister",
+      "description": "nan"
+    },
+    "thatha": {
+      "tamil": "சென்னை தமிழ்: தாத்தா",
+      "english": "Chennai Tamil: grandpa",
+      "description": "nan"
+    },
+    "paati": {
+      "tamil": "சென்னை தமிழ்: பாட்টி",
+      "english": "Chennai Tamil: grandma",
+      "description": "nan"
+    },
+    "kundam": {
+      "tamil": "சென்னை தமிழ்: குண்டம்",
+      "english": "Chennai Tamil: potbelly",
+      "description": "nan"
+    },
+    "meera": {
+      "tamil": "சென்னை தமிழ்: மீரா",
+      "english": "Chennai Tamil: smart",
+      "description": "nan"
+    },
+    "theenda": {
+      "tamil": "சென்னை தமிழ்: தீந்தா",
+      "english": "Chennai Tamil: daring",
+      "description": "nan"
+    },
+    "vetti": {
+      "tamil": "சென்னை தமிழ்: வெட்டி",
+      "english": "Chennai Tamil: useless",
+      "description": "nan"
+    },
+    "makka": {
+      "tamil": "சென்னை தமிழ்: மக்கா",
+      "english": "Chennai Tamil: man",
+      "description": "nan"
+    },
+    "ponnu": {
+      "tamil": "சென்னை தமிழ்: பொண்ணு",
+      "english": "Chennai Tamil: girl",
+      "description": "nan"
+    },
+    "oor": {
+      "tamil": "சென்னை தமிழ்: ஊர்",
+      "english": "Chennai Tamil: town",
+      "description": "nan"
+    },
+    "veedu": {
+      "tamil": "சென்னை தமிழ்: வீடு",
+      "english": "Chennai Tamil: house",
+      "description": "nan"
+    },
+    "katai": {
+      "tamil": "சென்னை தமிழ்: கடை",
+      "english": "Chennai Tamil: shop",
+      "description": "nan"
+    },
+    "sandhai": {
+      "tamil": "சென்னை தமிழ்: சந்தை",
+      "english": "Chennai Tamil: market",
+      "description": "nan"
+    },
+    "nool": {
+      "tamil": "சென்னை தமிழ்: நூல்",
+      "english": "Chennai Tamil: string",
+      "description": "nan"
+    },
+    "pottu": {
+      "tamil": "சென்னை தமிழ்: பொட்டு",
+      "english": "Chennai Tamil: packet",
+      "description": "nan"
+    },
+    "karambu": {
+      "tamil": "சென்னை தமிழ்: கரம்பு",
+      "english": "Chennai Tamil: sugarcane",
+      "description": "nan"
+    },
+    "neerum": {
+      "tamil": "சென்னை தமிழ்: நீரும்",
+      "english": "Chennai Tamil: water",
+      "description": "nan"
+    },
+    "saadan": {
+      "tamil": "சென்னை தமிழ்: சாதான்",
+      "english": "Chennai Tamil: usual",
+      "description": "nan"
+    },
+    "matta": {
+      "tamil": "சென்னை தமிழ்: மட்டா",
+      "english": "Chennai Tamil: only",
+      "description": "nan"
+    },
+    "ellam": {
+      "tamil": "சென்னை தமிழ்: எல்லாம்",
+      "english": "Chennai Tamil: all",
+      "description": "nan"
+    },
+    "onnu": {
+      "tamil": "சென்னை தமிழ்: ஒன்னு",
+      "english": "Chennai Tamil: one",
+      "description": "nan"
+    },
+    "randu": {
+      "tamil": "சென்னை தமிழ்: ரெண்டு",
+      "english": "Chennai Tamil: two",
+      "description": "nan"
+    },
+    "moonnu": {
+      "tamil": "சென்னை தமிழ்: மூணு",
+      "english": "Chennai Tamil: three",
+      "description": "nan"
+    },
+    "nallla": {
+      "tamil": "சென்னை தமிழ்: நல்லா",
+      "english": "Chennai Tamil: good",
+      "description": "nan"
+    },
+    "kettana": {
+      "tamil": "சென்னை தமிழ்: கெட்டனா",
+      "english": "Chennai Tamil: bad",
+      "description": "nan"
+    },
+    "puyala": {
+      "tamil": "சென்னை தமிழ்: பூயாளா",
+      "english": "Chennai Tamil: stink",
+      "description": "nan"
+    },
+    "odum": {
+      "tamil": "சென்னை தமிழ்: ஓடும்",
+      "english": "Chennai Tamil: runs",
+      "description": "nan"
+    },
+    "nadundhu": {
+      "tamil": "சென்னை தமிழ்: நடுந்து",
+      "english": "Chennai Tamil: walks",
+      "description": "nan"
+    },
+    "okkandhu": {
+      "tamil": "சென்னை தமிழ்: ஒக்கந்து",
+      "english": "Chennai Tamil: squats",
+      "description": "nan"
+    }
+  },
+  "Coimbatore": {
+    "da": {
+      "tamil": "coimbatore_da",
+      "english": "Coimbatore Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "coimbatore_ayya",
+      "english": "Coimbatore Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "coimbatore_machan",
+      "english": "Coimbatore Tamil: buddy",
+      "description": "nan"
+    },
+    "textile": {
+      "tamil": "coimbatore_textile",
+      "english": "Coimbatore Tamil: textile",
+      "description": "nan"
+    },
+    "city": {
+      "tamil": "coimbatore_city",
+      "english": "Coimbatore Tamil: city",
+      "description": "nan"
+    }
+  },
+  "Cuddalore": {
+    "da": {
+      "tamil": "கூடலூர் தமிழ்: தா",
+      "english": "Cuddalore Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "கூடலூர் தமிழ்: அய்யா",
+      "english": "Cuddalore Tamil: sir",
+      "description": "nan"
+    },
+    "amma": {
+      "tamil": "கூடலூர் தமிழ்: அம்மா",
+      "english": "Cuddalore Tamil: mom",
+      "description": "nan"
+    },
+    "tambi": {
+      "tamil": "கூடலூர் தமிழ்: தம்பி",
+      "english": "Cuddalore Tamil: brother",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "கூடலூர் தமிழ்: மச்சான்",
+      "english": "Cuddalore Tamil: buddy",
+      "description": "nan"
+    },
+    "ponnu": {
+      "tamil": "கூடலூர் தமிழ்: பொண்ணு",
+      "english": "Cuddalore Tamil: girl",
+      "description": "nan"
+    },
+    "sahib": {
+      "tamil": "கூடலூர் தமிழ்: சாஹிப்",
+      "english": "Cuddalore Tamil: master",
+      "description": "nan"
+    },
+    "village": {
+      "tamil": "கூடலூர் தமிழ்: வூர்",
+      "english": "Cuddalore Tamil: village",
+      "description": "nan"
+    },
+    "paddy": {
+      "tamil": "கூடலூர் தமிழ்: நெல்",
+      "english": "Cuddalore Tamil: paddy",
+      "description": "nan"
+    },
+    "field": {
+      "tamil": "கூடலூர் தமிழ்: வயல்",
+      "english": "Cuddalore Tamil: field",
+      "description": "nan"
+    },
+    "well": {
+      "tamil": "கூடலூர் தமிழ்: கிணறு",
+      "english": "Cuddalore Tamil: well",
+      "description": "nan"
+    },
+    "water": {
+      "tamil": "கூடலூர் தமிழ்: நீர்",
+      "english": "Cuddalore Tamil: water",
+      "description": "nan"
+    },
+    "ocean": {
+      "tamil": "கூடலூர் தமிழ்: கடல்",
+      "english": "Cuddalore Tamil: ocean",
+      "description": "nan"
+    },
+    "beach": {
+      "tamil": "கூடலூர் தமிழ்: கரை",
+      "english": "Cuddalore Tamil: beach",
+      "description": "nan"
+    },
+    "fishing": {
+      "tamil": "கூடலூர் தமிழ்: மீன் பிடி",
+      "english": "Cuddalore Tamil: fishing",
+      "description": "nan"
+    },
+    "net": {
+      "tamil": "கூடலூர் தமிழ்: வலை",
+      "english": "Cuddalore Tamil: net",
+      "description": "nan"
+    },
+    "boat": {
+      "tamil": "கூடலூர் தமிழ்: படி",
+      "english": "Cuddalore Tamil: boat",
+      "description": "nan"
+    },
+    "ship": {
+      "tamil": "கூடலூர் தமிழ்: கപ்பல்",
+      "english": "Cuddalore Tamil: ship",
+      "description": "nan"
+    },
+    "temple": {
+      "tamil": "கூடலூர் தமிழ்: கோயில்",
+      "english": "Cuddalore Tamil: temple",
+      "description": "nan"
+    },
+    "worship": {
+      "tamil": "கூடலூர் தமிழ்: பூஜை",
+      "english": "Cuddalore Tamil: worship",
+      "description": "nan"
+    },
+    "festival": {
+      "tamil": "கூடலூர் தமிழ்: திருவிழா",
+      "english": "Cuddalore Tamil: festival",
+      "description": "nan"
+    },
+    "harvest": {
+      "tamil": "கூடலூர் தமிழ்: அறுவடை",
+      "english": "Cuddalore Tamil: harvest",
+      "description": "nan"
+    },
+    "crop": {
+      "tamil": "கூடலூர் தமிழ்: பயிர்",
+      "english": "Cuddalore Tamil: crop",
+      "description": "nan"
+    },
+    "farmer": {
+      "tamil": "கூடலூர் தமிழ்: விவசாயி",
+      "english": "Cuddalore Tamil: farmer",
+      "description": "nan"
+    },
+    "bullock": {
+      "tamil": "கூடலூர் தமிழ்: எருமை",
+      "english": "Cuddalore Tamil: bullock",
+      "description": "nan"
+    },
+    "cattle": {
+      "tamil": "கூடலூர் தமிழ்: மாடு",
+      "english": "Cuddalore Tamil: cattle",
+      "description": "nan"
+    },
+    "cow": {
+      "tamil": "கூடலூர் தமிழ்: பசு",
+      "english": "Cuddalore Tamil: cow",
+      "description": "nan"
+    },
+    "goat": {
+      "tamil": "கூடலூர் தமிழ்: ஆடு",
+      "english": "Cuddalore Tamil: goat",
+      "description": "nan"
+    },
+    "chicken": {
+      "tamil": "கூடலூர் தமிழ்: கோழி",
+      "english": "Cuddalore Tamil: chicken",
+      "description": "nan"
+    },
+    "market": {
+      "tamil": "கூடலூர் தமிழ்: சந்தை",
+      "english": "Cuddalore Tamil: market",
+      "description": "nan"
+    },
+    "shop": {
+      "tamil": "கூடலூர் தமிழ்: கடை",
+      "english": "Cuddalore Tamil: shop",
+      "description": "nan"
+    },
+    "work": {
+      "tamil": "கூடலூர் தமிழ்: வேலை",
+      "english": "Cuddalore Tamil: work",
+      "description": "nan"
+    },
+    "rest": {
+      "tamil": "கூடலூர் தமிழ்: ஓய்வு",
+      "english": "Cuddalore Tamil: rest",
+      "description": "nan"
+    },
+    "sleep": {
+      "tamil": "கூடலூர் தமிழ்: உறக்கம்",
+      "english": "Cuddalore Tamil: sleep",
+      "description": "nan"
+    },
+    "wake": {
+      "tamil": "கூடலூர் தமிழ்: விழித்태ழ",
+      "english": "Cuddalore Tamil: wake",
+      "description": "nan"
+    },
+    "morning": {
+      "tamil": "கூடலூர் தமிழ்: காலை",
+      "english": "Cuddalore Tamil: morning",
+      "description": "nan"
+    },
+    "evening": {
+      "tamil": "கூடலூர் தமிழ்: மாலை",
+      "english": "Cuddalore Tamil: evening",
+      "description": "nan"
+    },
+    "night": {
+      "tamil": "கூடலூர் தமிழ்: இரவு",
+      "english": "Cuddalore Tamil: night",
+      "description": "nan"
+    },
+    "day": {
+      "tamil": "கூடலூர் தமிழ்: நாள்",
+      "english": "Cuddalore Tamil: day",
+      "description": "nan"
+    },
+    "week": {
+      "tamil": "கூடலூர் தமிழ்: வாரம்",
+      "english": "Cuddalore Tamil: week",
+      "description": "nan"
+    },
+    "month": {
+      "tamil": "கூடலூர் தமிழ்: மாதம்",
+      "english": "Cuddalore Tamil: month",
+      "description": "nan"
+    },
+    "year": {
+      "tamil": "கூடலூர் தமிழ்: வருசம்",
+      "english": "Cuddalore Tamil: year",
+      "description": "nan"
+    }
+  },
+  "Dharmapuri": {
+    "da": {
+      "tamil": "தர்மபுரி தமிழ்: தா",
+      "english": "Dharmapuri Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "தர்மபுரி தமிழ்: அய்யா",
+      "english": "Dharmapuri Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "தர்மபுரி தமிழ்: மச்சான்",
+      "english": "Dharmapuri Tamil: buddy",
+      "description": "nan"
+    },
+    "chetta": {
+      "tamil": "தர்மபுரி தமிழ்: சேட்டா",
+      "english": "Dharmapuri Tamil: friend",
+      "description": "nan"
+    },
+    "mountain": {
+      "tamil": "தர்மபுரி தமிழ்: மலை",
+      "english": "Dharmapuri Tamil: mountain",
+      "description": "nan"
+    },
+    "forest": {
+      "tamil": "தர்மபுரி தமிழ்: காடு",
+      "english": "Dharmapuri Tamil: forest",
+      "description": "nan"
+    },
+    "hill": {
+      "tamil": "தர்மபுரி தமிழ்: குன்று",
+      "english": "Dharmapuri Tamil: hill",
+      "description": "nan"
+    },
+    "valley": {
+      "tamil": "தர்மபுரி தமிழ்: பள்ளம்",
+      "english": "Dharmapuri Tamil: valley",
+      "description": "nan"
+    },
+    "river": {
+      "tamil": "தர்மபுரி தமிழ்: ஆறு",
+      "english": "Dharmapuri Tamil: river",
+      "description": "nan"
+    },
+    "stone": {
+      "tamil": "தர்மபுரி தமிழ்: கல்",
+      "english": "Dharmapuri Tamil: stone",
+      "description": "nan"
+    },
+    "rock": {
+      "tamil": "தர்மபுரி தமிழ்: பாறை",
+      "english": "Dharmapuri Tamil: rock",
+      "description": "nan"
+    },
+    "clay": {
+      "tamil": "தர்மபுரி தமிழ்: மண்",
+      "english": "Dharmapuri Tamil: clay",
+      "description": "nan"
+    },
+    "sand": {
+      "tamil": "தர்மபுரி தமிழ்: மணல்",
+      "english": "Dharmapuri Tamil: sand",
+      "description": "nan"
+    },
+    "gold": {
+      "tamil": "தர்மபுரி தமிழ்: பொன்",
+      "english": "Dharmapuri Tamil: gold",
+      "description": "nan"
+    },
+    "mine": {
+      "tamil": "தர்மபுரி தமிழ்:광산",
+      "english": "Dharmapuri Tamil: mine",
+      "description": "nan"
+    },
+    "quarry": {
+      "tamil": "தர்மபுரி தமிழ்: கல்லுமி",
+      "english": "Dharmapuri Tamil: quarry",
+      "description": "nan"
+    },
+    "tree": {
+      "tamil": "தர்மபுரி தமிழ்: மரம்",
+      "english": "Dharmapuri Tamil: tree",
+      "description": "nan"
+    },
+    "flower": {
+      "tamil": "தர்மபுரி தமிழ்: பூ",
+      "english": "Dharmapuri Tamil: flower",
+      "description": "nan"
+    },
+    "fruit": {
+      "tamil": "தர்மபுரி தமிழ்: பழம்",
+      "english": "Dharmapuri Tamil: fruit",
+      "description": "nan"
+    },
+    "leaf": {
+      "tamil": "தர்மபுரி தமிழ்: இலை",
+      "english": "Dharmapuri Tamil: leaf",
+      "description": "nan"
+    },
+    "animal": {
+      "tamil": "தர்மபுரி தமிழ்: விலங்கு",
+      "english": "Dharmapuri Tamil: animal",
+      "description": "nan"
+    },
+    "tiger": {
+      "tamil": "தர்மபுரி தமிழ்: புலி",
+      "english": "Dharmapuri Tamil: tiger",
+      "description": "nan"
+    },
+    "elephant": {
+      "tamil": "தர்மபுரி தமிழ்: யானை",
+      "english": "Dharmapuri Tamil: elephant",
+      "description": "nan"
+    },
+    "deer": {
+      "tamil": "தர்மபுரி தமிழ்: மான்",
+      "english": "Dharmapuri Tamil: deer",
+      "description": "nan"
+    },
+    "wild": {
+      "tamil": "தர்மபுரி தமிழ்: காட்டான",
+      "english": "Dharmapuri Tamil: wild",
+      "description": "nan"
+    },
+    "temple": {
+      "tamil": "தர்மபுரி தமிழ்: கோயில்",
+      "english": "Dharmapuri Tamil: temple",
+      "description": "nan"
+    },
+    "prayer": {
+      "tamil": "தர்மபுரி தமிழ்: பிரார்த்தனை",
+      "english": "Dharmapuri Tamil: prayer",
+      "description": "nan"
+    },
+    "god": {
+      "tamil": "தர்மபுரி தமிழ்: கடவுள்",
+      "english": "Dharmapuri Tamil: god",
+      "description": "nan"
+    },
+    "sacred": {
+      "tamil": "தர்மபுரி தமிழ்: புனிதம்",
+      "english": "Dharmapuri Tamil: sacred",
+      "description": "nan"
+    },
+    "pilgrimage": {
+      "tamil": "தர்மபுரி தமிழ்: யாத்ரை",
+      "english": "Dharmapuri Tamil: pilgrimage",
+      "description": "nan"
+    }
+  },
+  "Dindigul": {
+    "da": {
+      "tamil": "dindigul_da",
+      "english": "Dindigul Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "dindigul_ayya",
+      "english": "Dindigul Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "dindigul_machan",
+      "english": "Dindigul Tamil: buddy",
+      "description": "nan"
+    },
+    "lock": {
+      "tamil": "dindigul_lock",
+      "english": "Dindigul Tamil: lock",
+      "description": "nan"
+    },
+    "city": {
+      "tamil": "dindigul_city",
+      "english": "Dindigul Tamil: city",
+      "description": "nan"
+    }
+  },
+  "Erode": {
+    "da": {
+      "tamil": "erode_da",
+      "english": "Erode Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "erode_ayya",
+      "english": "Erode Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "erode_machan",
+      "english": "Erode Tamil: buddy",
+      "description": "nan"
+    },
+    "textile": {
+      "tamil": "erode_textile",
+      "english": "Erode Tamil: textile",
+      "description": "nan"
+    },
+    "city": {
+      "tamil": "erode_city",
+      "english": "Erode Tamil: city",
+      "description": "nan"
+    }
+  },
+  "Kanchipuram": {
+    "da": {
+      "tamil": "கஞ்சிபுரம் தமிழ்: தா",
+      "english": "Kanchipuram Tamil: brother",
+      "description": "nan"
+    },
+    "thambi": {
+      "tamil": "கஞ்சிபுரம் தமிழ்: தம்பி",
+      "english": "Kanchipuram Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "கஞ்சிபுரம் தமிழ்: அய்யா",
+      "english": "Kanchipuram Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "கஞ்சிபுரம் தமிழ்: மச்சான்",
+      "english": "Kanchipuram Tamil: buddy",
+      "description": "nan"
+    },
+    "temple": {
+      "tamil": "கஞ்சிபுரம் தமிழ்: கோயில்",
+      "english": "Kanchipuram Tamil: temple",
+      "description": "nan"
+    },
+    "silk": {
+      "tamil": "கஞ்சிபுரம் தமிழ்: பட்டு",
+      "english": "Kanchipuram Tamil: silk",
+      "description": "nan"
+    },
+    "weaving": {
+      "tamil": "கஞ்சிபுரம் தமிழ்: நेಣेಯುटು",
+      "english": "Kanchipuram Tamil: weaving",
+      "description": "nan"
+    },
+    "cloth": {
+      "tamil": "கஞ்சிபுரம் தமிழ்: துணி",
+      "english": "Kanchipuram Tamil: cloth",
+      "description": "nan"
+    },
+    "sari": {
+      "tamil": "கஞ்சிபுரம் தமிழ்: சேலை",
+      "english": "Kanchipuram Tamil: sari",
+      "description": "nan"
+    },
+    "saree": {
+      "tamil": "கஞ்சிபுरम் தமિ: સાड़ी",
+      "english": "Kanchipuram Tamil: saree",
+      "description": "nan"
+    },
+    "weaver": {
+      "tamil": "கஞ்சிபுरम் தमिल्: बुनकร",
+      "english": "Kanchipuram Tamil: weaver",
+      "description": "nan"
+    },
+    "texture": {
+      "tamil": "கஞ்చിपुরम् तมिл्: बनावट",
+      "english": "Kanchipuram Tamil: texture",
+      "description": "nan"
+    },
+    "pattern": {
+      "tamil": "கஞ்චिपुरम् तमिл्: पिटेर्न",
+      "english": "Kanchipuram Tamil: pattern",
+      "description": "nan"
+    },
+    "design": {
+      "tamil": "கஞ்చിपुরம् तमिल्: डिજાઇન",
+      "english": "Kanchipuram Tamil: design",
+      "description": "nan"
+    },
+    "art": {
+      "tamil": "कंचिपुरम तमिल: कला",
+      "english": "Kanchipuram Tamil: art",
+      "description": "nan"
+    },
+    "craftsmanship": {
+      "tamil": "कंचिपुरम तमिल: दक्षता",
+      "english": "Kanchipuram Tamil: craftsmanship",
+      "description": "nan"
+    },
+    "ancient": {
+      "tamil": "कंचिपुरम तमिल: पुरानो",
+      "english": "Kanchipuram Tamil: ancient",
+      "description": "nan"
+    },
+    "historical": {
+      "tamil": "कंचिपुरम तمिল: ऐतिहासिक",
+      "english": "Kanchipuram Tamil: historical",
+      "description": "nan"
+    },
+    "pilgrimage": {
+      "tamil": "கஞ்சிપुരം தமிழ்: யாத்ரை",
+      "english": "Kanchipuram Tamil: pilgrimage",
+      "description": "nan"
+    },
+    "devotion": {
+      "tamil": "कंचिपुरम तमिल: भक्ति",
+      "english": "Kanchipuram Tamil: devotion",
+      "description": "nan"
+    },
+    "prayer": {
+      "tamil": "कंचिपुरम तमिल: प्रार्थना",
+      "english": "Kanchipuram Tamil: prayer",
+      "description": "nan"
+    },
+    "worship": {
+      "tamil": "कंचिपुरम तमिल: पूजा",
+      "english": "Kanchipuram Tamil: worship",
+      "description": "nan"
+    },
+    "festival": {
+      "tamil": "कंचिपुरम तमिल: त्योहार",
+      "english": "Kanchipuram Tamil: festival",
+      "description": "nan"
+    },
+    "culture": {
+      "tamil": "कंचिपुरम तमिल: संस्कृति",
+      "english": "Kanchipuram Tamil: culture",
+      "description": "nan"
+    },
+    "tradition": {
+      "tamil": "कंचिपुरम तमिल: परम्परा",
+      "english": "Kanchipuram Tamil: tradition",
+      "description": "nan"
+    },
+    "heritage": {
+      "tamil": "கஞ்சிபுरम् தมிल्: धरोहर",
+      "english": "Kanchipuram Tamil: heritage",
+      "description": "nan"
+    }
+  },
+  "Kanyakumari": {
+    "da": {
+      "tamil": "கன்னியाकுமारி தமிழ்: தா",
+      "english": "Kanyakumari Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "கன்னியாகுமாരி தமிழ்: அய்யா",
+      "english": "Kanyakumari Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "கன்னியாకுமாரி தமிழ்: மச்சான்",
+      "english": "Kanyakumari Tamil: buddy",
+      "description": "nan"
+    },
+    "cape": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: மூலை",
+      "english": "Kanyakumari Tamil: cape",
+      "description": "nan"
+    },
+    "ocean": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: கடல்",
+      "english": "Kanyakumari Tamil: ocean",
+      "description": "nan"
+    },
+    "fishing": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: மீன்பிடி",
+      "english": "Kanyakumari Tamil: fishing",
+      "description": "nan"
+    },
+    "coconut": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: தேங்காய்",
+      "english": "Kanyakumari Tamil: coconut",
+      "description": "nan"
+    },
+    "spice": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: மசாலா",
+      "english": "Kanyakumari Tamil: spice",
+      "description": "nan"
+    },
+    "pepper": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: மிளகு",
+      "english": "Kanyakumari Tamil: pepper",
+      "description": "nan"
+    },
+    "tropical": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: வெப்ப மண்டல",
+      "english": "Kanyakumari Tamil: tropical",
+      "description": "nan"
+    },
+    "south": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: தென்",
+      "english": "Kanyakumari Tamil: south",
+      "description": "nan"
+    },
+    "southernmost": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: தெனாடை",
+      "english": "Kanyakumari Tamil: southernmost",
+      "description": "nan"
+    },
+    "tip": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: முனை",
+      "english": "Kanyakumari Tamil: tip",
+      "description": "nan"
+    },
+    "sunset": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: சூரியாஸ்தமனம்",
+      "english": "Kanyakumari Tamil: sunset",
+      "description": "nan"
+    },
+    "sunrise": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: சூரியோதயம்",
+      "english": "Kanyakumari Tamil: sunrise",
+      "description": "nan"
+    },
+    "beach": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: கரை",
+      "english": "Kanyakumari Tamil: beach",
+      "description": "nan"
+    },
+    "sand": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: மணல்",
+      "english": "Kanyakumari Tamil: sand",
+      "description": "nan"
+    },
+    "wave": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: அலை",
+      "english": "Kanyakumari Tamil: wave",
+      "description": "nan"
+    },
+    "monsoon": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: மழை காலம்",
+      "english": "Kanyakumari Tamil: monsoon",
+      "description": "nan"
+    },
+    "wind": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: காற்று",
+      "english": "Kanyakumari Tamil: wind",
+      "description": "nan"
+    },
+    "salt": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: உப்பு",
+      "english": "Kanyakumari Tamil: salt",
+      "description": "nan"
+    },
+    "trade": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: வாணिज்य",
+      "english": "Kanyakumari Tamil: trade",
+      "description": "nan"
+    },
+    "merchant": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: வணிகன்",
+      "english": "Kanyakumari Tamil: merchant",
+      "description": "nan"
+    },
+    "port": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: துறை",
+      "english": "Kanyakumari Tamil: port",
+      "description": "nan"
+    },
+    "ship": {
+      "tamil": "கன்னியாகுமாரி தமிழ்: கப்பல்",
+      "english": "Kanyakumari Tamil: ship",
+      "description": "nan"
+    }
+  },
+  "Karur": {
+    "da": {
+      "tamil": "கரூர் தமிழ்: தா",
+      "english": "Karur Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "கரூர் தமிழ்: அய்யா",
+      "english": "Karur Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "கரூர் தமிழ்: மச்சான்",
+      "english": "Karur Tamil: buddy",
+      "description": "nan"
+    },
+    "fabric": {
+      "tamil": "கரூர் தமிழ்: துணி",
+      "english": "Karur Tamil: fabric",
+      "description": "nan"
+    },
+    "textile": {
+      "tamil": "கரூர் தமிழ்: விளைநூல்",
+      "english": "Karur Tamil: textile",
+      "description": "nan"
+    },
+    "mill": {
+      "tamil": "கரூர் தமிழ்: ஆலை",
+      "english": "Karur Tamil: mill",
+      "description": "nan"
+    },
+    "yarn": {
+      "tamil": "கரூர் தமிழ்: நூல்",
+      "english": "Karur Tamil: yarn",
+      "description": "nan"
+    },
+    "cotton": {
+      "tamil": "கரூர் தமிழ்: பருத்தி",
+      "english": "Karur Tamil: cotton",
+      "description": "nan"
+    },
+    "loom": {
+      "tamil": "கரூர் தமிழ்: உறல்",
+      "english": "Karur Tamil: loom",
+      "description": "nan"
+    },
+    "weaver": {
+      "tamil": "கரூர் தமிழ்: நेಣेយনು",
+      "english": "Karur Tamil: weaver",
+      "description": "nan"
+    },
+    "dye": {
+      "tamil": "கரூர் தமிழ்: வண்ணம்",
+      "english": "Karur Tamil: dye",
+      "description": "nan"
+    },
+    "color": {
+      "tamil": "கரூர் தமிழ்: நிற்றம்",
+      "english": "Karur Tamil: color",
+      "description": "nan"
+    },
+    "pattern": {
+      "tamil": "கரூர் தமிழ்: பாய்ப்பு",
+      "english": "Karur Tamil: pattern",
+      "description": "nan"
+    },
+    "quality": {
+      "tamil": "கരூர் தமிழ்: தரம்",
+      "english": "Karur Tamil: quality",
+      "description": "nan"
+    },
+    "commerce": {
+      "tamil": "கரூர் தமிழ்: வணிகம்",
+      "english": "Karur Tamil: commerce",
+      "description": "nan"
+    },
+    "trader": {
+      "tamil": "கרूर் தমिल्: ब्यापारी",
+      "english": "Karur Tamil: trader",
+      "description": "nan"
+    },
+    "merchant": {
+      "tamil": "กรูร் તમીલ: વેપારી",
+      "english": "Karur Tamil: merchant",
+      "description": "nan"
+    },
+    "business": {
+      "tamil": "கരூર் தமிழ்: ব्यবসा",
+      "english": "Karur Tamil: business",
+      "description": "nan"
+    },
+    "market": {
+      "tamil": "கરूร് તmilya: bazzar",
+      "english": "Karur Tamil: market",
+      "description": "nan"
+    },
+    "shop": {
+      "tamil": "കരൂർ തമിഴ്: കടകേ",
+      "english": "Karur Tamil: shop",
+      "description": "nan"
+    },
+    "price": {
+      "tamil": "रुर् তमিલ्: मূल्य",
+      "english": "Karur Tamil: price",
+      "description": "nan"
+    },
+    "bargain": {
+      "tamil": "रुર್ तमिल: मोलभाव",
+      "english": "Karur Tamil: bargain",
+      "description": "nan"
+    },
+    "profit": {
+      "tamil": "रुร્ તমીલ: નફો",
+      "english": "Karur Tamil: profit",
+      "description": "nan"
+    }
+  },
+  "Krishnagiri": {
+    "da": {
+      "tamil": "கிருஷ்ணகிரி தமிழ்: தா",
+      "english": "Krishnagiri Tamil: brother",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "கிருஷ்ணகிரி தமிழ்: மச்சான்",
+      "english": "Krishnagiri Tamil: buddy",
+      "description": "nan"
+    },
+    "thambi": {
+      "tamil": "கிருஷ்ணகிரி தமிழ்: தம்பி",
+      "english": "Krishnagiri Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "கிருஷ்ணகிரி தமிழ்: அய்யா",
+      "english": "Krishnagiri Tamil: sir",
+      "description": "nan"
+    },
+    "hill": {
+      "tamil": "கிருஷ்ணகிரி தமிழ்: குன்று",
+      "english": "Krishnagiri Tamil: hill",
+      "description": "nan"
+    },
+    "mountain": {
+      "tamil": "கிருஷ்ணகிரி தமிழ்: மலை",
+      "english": "Krishnagiri Tamil: mountain",
+      "description": "nan"
+    },
+    "rock": {
+      "tamil": "கிருஷ்ணகிரி தமிழ்: பாறை",
+      "english": "Krishnagiri Tamil: rock",
+      "description": "nan"
+    },
+    "stone": {
+      "tamil": "கிருஷ்ணகிரி தமிழ்: கல்",
+      "english": "Krishnagiri Tamil: stone",
+      "description": "nan"
+    },
+    "quarry": {
+      "tamil": "கிருஷ்ணகிரி தமிழ்: கல்லுமி",
+      "english": "Krishnagiri Tamil: quarry",
+      "description": "nan"
+    },
+    "granite": {
+      "tamil": "கிருஷ்ணகிரி தமிழ்: கிரேனைட்",
+      "english": "Krishnagiri Tamil: granite",
+      "description": "nan"
+    },
+    "mineral": {
+      "tamil": "கிருஷ்ணகிரி தமிழ்: தாதுப்பொருள்",
+      "english": "Krishnagiri Tamil: mineral",
+      "description": "nan"
+    },
+    "metal": {
+      "tamil": "கிருஷ்ணகிരி தமிழ்: உலோகம்",
+      "english": "Krishnagiri Tamil: metal",
+      "description": "nan"
+    },
+    "ore": {
+      "tamil": "கிருஷ்ணகிரி தமிழ்: தாது",
+      "english": "Krishnagiri Tamil: ore",
+      "description": "nan"
+    },
+    "mining": {
+      "tamil": "கிருஷ்ணகிரி தமிழ்: கண்ணிப்பு",
+      "english": "Krishnagiri Tamil: mining",
+      "description": "nan"
+    },
+    "excavation": {
+      "tamil": "கிருஷ்ணகிरी તમીલ: ખોદકામ",
+      "english": "Krishnagiri Tamil: excavation",
+      "description": "nan"
+    },
+    "forest": {
+      "tamil": "կtஷ்ணகிరी તમીલ: جંगل",
+      "english": "Krishnagiri Tamil: forest",
+      "description": "nan"
+    },
+    "valley": {
+      "tamil": "κтஷ்ණакیрี તમйल: wadi",
+      "english": "Krishnagiri Tamil: valley",
+      "description": "nan"
+    },
+    "river": {
+      "tamil": "গతஷ್ణaკีरী తતمिल: नदी",
+      "english": "Krishnagiri Tamil: river",
+      "description": "nan"
+    },
+    "water": {
+      "tamil": "kృஷ్ணთιरි তমिل: पानी",
+      "english": "Krishnagiri Tamil: water",
+      "description": "nan"
+    },
+    "stream": {
+      "tamil": "غึஷ್ણگีриత తmیল: stream",
+      "english": "Krishnagiri Tamil: stream",
+      "description": "nan"
+    },
+    "industrial": {
+      "tamil": "बుஷ్ஷતکีრی তmیل: उद्योگік",
+      "english": "Krishnagiri Tamil: industrial",
+      "description": "nan"
+    },
+    "factory": {
+      "tamil": "कృஷ್ੁಾгีरா తಕীಲ: कारखाना",
+      "english": "Krishnagiri Tamil: factory",
+      "description": "nan"
+    }
+  },
+  "Madurai": {
+    "da": {
+      "tamil": "மதுரை தமிழ்: தா",
+      "english": "Madurai Tamil: brother",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "மதுரை தமிழ்: மச்சான்",
+      "english": "Madurai Tamil: buddy",
+      "description": "nan"
+    },
+    "thambi": {
+      "tamil": "மதுரை தமிழ்: தம்பி",
+      "english": "Madurai Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "மதுரை தமிழ்: அய்யா",
+      "english": "Madurai Tamil: sir",
+      "description": "nan"
+    },
+    "ponnu": {
+      "tamil": "மதுரை தமிழ்: பொண்ணு",
+      "english": "Madurai Tamil: girl",
+      "description": "nan"
+    },
+    "minakshi": {
+      "tamil": "மதுரை தமிழ்: மீனாக்ஷி",
+      "english": "Madurai Tamil: Meenakshi",
+      "description": "nan"
+    },
+    "temple": {
+      "tamil": "மதுரை தமிழ்: கோயில்",
+      "english": "Madurai Tamil: temple",
+      "description": "nan"
+    },
+    "prayer": {
+      "tamil": "மதுரை தமிழ்: பிரார்த்தனை",
+      "english": "Madurai Tamil: prayer",
+      "description": "nan"
+    },
+    "pilgrimage": {
+      "tamil": "மதுரை తмिল्: यात्रा",
+      "english": "Madurai Tamil: pilgrimage",
+      "description": "nan"
+    },
+    "devotion": {
+      "tamil": "मதுरai தмिл्: भक्ति",
+      "english": "Madurai Tamil: devotion",
+      "description": "nan"
+    },
+    "ancient": {
+      "tamil": "মাทுરҚ तमिل: पुरानो",
+      "english": "Madurai Tamil: ancient",
+      "description": "nan"
+    },
+    "history": {
+      "tamil": "മുരୁୟა தمิял: इतिहास",
+      "english": "Madurai Tamil: history",
+      "description": "nan"
+    },
+    "city": {
+      "tamil": "మదุરαต ಸುತмיз: शहर",
+      "english": "Madurai Tamil: city",
+      "description": "nan"
+    },
+    "palace": {
+      "tamil": "મদুรೆఈ तমिल: महल",
+      "english": "Madurai Tamil: palace",
+      "description": "nan"
+    },
+    "architecture": {
+      "tamil": "लदುৰყ తмिල: स्थापत्य",
+      "english": "Madurai Tamil: architecture",
+      "description": "nan"
+    },
+    "pandyan": {
+      "tamil": "मிُႏັုಂ ატთমíლ: पंड्यन्",
+      "english": "Madurai Tamil: Pandya",
+      "description": "nan"
+    },
+    "dynasty": {
+      "tamil": "మาთುರை तмიyl: राजवंश",
+      "english": "Madurai Tamil: dynasty",
+      "description": "nan"
+    },
+    "silk": {
+      "tamil": "მدུুٴ့ತumil: रेशम",
+      "english": "Madurai Tamil: silk",
+      "description": "nan"
+    },
+    "textiles": {
+      "tamil": "ທുುٴ့ັೇ තઈცుമิḷ: पाठ्य",
+      "english": "Madurai Tamil: textiles",
+      "description": "nan"
+    },
+    "jasmine": {
+      "tamil": "মदುરಛี તኬిើ: चमेली",
+      "english": "Madurai Tamil: jasmine",
+      "description": "nan"
+    },
+    "flower": {
+      "tamil": "ഉదുರۀ තມิԱ: फूल",
+      "english": "Madurai Tamil: flower",
+      "description": "nan"
+    },
+    "flower garland": {
+      "tamil": "মదुৰֱ tୀఝ_มึलҳ: फूलों की माला",
+      "english": "Madurai Tamil: flower garland",
+      "description": "nan"
+    },
+    "art": {
+      "tamil": "ማቴୁٿҳ ತмిለ: कला",
+      "english": "Madurai Tamil: art",
+      "description": "nan"
+    },
+    "culture": {
+      "tamil": "মদುฟੳ आтмільั: संस्कृति",
+      "english": "Madurai Tamil: culture",
+      "description": "nan"
+    }
+  },
+  "Mayiladuthurai": {
+    "da": {
+      "tamil": "மயிலாதுரை தமிழ்: தா",
+      "english": "Mayiladuthurai Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "मयीलாधुरा તমिल: सर",
+      "english": "Mayiladuthurai Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "મयीiંुरా తఇल्: दोस्त",
+      "english": "Mayiladuthurai Tamil: buddy",
+      "description": "nan"
+    },
+    "port": {
+      "tamil": "মयीલಾधुٴ تमిल: बंदरगाह",
+      "english": "Mayiladuthurai Tamil: port",
+      "description": "nan"
+    },
+    "coastal": {
+      "tamil": "દยीљાथುুಿ તmილ: തീര",
+      "english": "Mayiladuthurai Tamil: coastal",
+      "description": "nan"
+    },
+    "merchant": {
+      "tamil": "คയीᄾάుုาՆుിଦỔుఉဓूજेุೈుుტఈุలาἯேṉుુႏুုኌिული້ెُृుതුዓುুఊెुຸུుūుုఎುྭുთึುుūుුीுుୋుುɾుుᅀుుओുྪുుുుುುึుುᄐුुைುుುു",
+      "english": "Mayiladuthurai Tamil: merchant",
+      "description": "nan"
+    },
+    "fishing": {
+      "tamil": "മยีLാधುᠷীఇລผیഁ్तmিಂ: मछली पकड़ना",
+      "english": "Mayiladuthurai Tamil: fishing",
+      "description": "nan"
+    }
+  },
+  "Nagapattinam": {
+    "appa": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: அண்ணா",
+      "english": "Nagapattinam Tamil: anna",
+      "description": "nan"
+    },
+    "amma": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: அக்கா",
+      "english": "Nagapattinam Tamil: akka",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: தம்பி",
+      "english": "Nagapattinam Tamil: thambi",
+      "description": "nan"
+    },
+    "kaara": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: மீன் வலை",
+      "english": "Nagapattinam Tamil: fishing net",
+      "description": "nan"
+    },
+    "vaalai": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: பெரிய மீன்",
+      "english": "Nagapattinam Tamil: big fish",
+      "description": "nan"
+    },
+    "koduva": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: சூப்பர் மீன்",
+      "english": "Nagapattinam Tamil: barracuda",
+      "description": "nan"
+    },
+    "paara": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: கடல்",
+      "english": "Nagapattinam Tamil: sea",
+      "description": "nan"
+    },
+    "thanni": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: நீர்/இராச்சை",
+      "english": "Nagapattinam Tamil: water/booze",
+      "description": "nan"
+    },
+    "semma": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: ரொம்ப நல்லா",
+      "english": "Nagapattinam Tamil: romba nalla",
+      "description": "nan"
+    },
+    "da": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: ரா",
+      "english": "Nagapattinam Tamil: ra",
+      "description": "nan"
+    },
+    "nel": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: அரிசி",
+      "english": "Nagapattinam Tamil: paddy",
+      "description": "nan"
+    },
+    "thotta": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: வயல்",
+      "english": "Nagapattinam Tamil: field",
+      "description": "nan"
+    },
+    "ezhu": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: நடு",
+      "english": "Nagapattinam Tamil: transplant",
+      "description": "nan"
+    },
+    "kara": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: காரமா",
+      "english": "Nagapattinam Tamil: spicy",
+      "description": "nan"
+    },
+    "kuchi": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: சின்ன",
+      "english": "Nagapattinam Tamil: small",
+      "description": "nan"
+    },
+    "periya": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: பெருசா",
+      "english": "Nagapattinam Tamil: big",
+      "description": "nan"
+    },
+    "sari": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: ஓகே",
+      "english": "Nagapattinam Tamil: okay",
+      "description": "nan"
+    },
+    "enna": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: என்னடா",
+      "english": "Nagapattinam Tamil: what da",
+      "description": "nan"
+    },
+    "po": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: போ",
+      "english": "Nagapattinam Tamil: go",
+      "description": "nan"
+    },
+    "deva": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: கடவுள்",
+      "english": "Nagapattinam Tamil: god",
+      "description": "nan"
+    },
+    "koil": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: கோயில்",
+      "english": "Nagapattinam Tamil: temple",
+      "description": "nan"
+    },
+    "pooja": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: பூஜை",
+      "english": "Nagapattinam Tamil: worship",
+      "description": "nan"
+    },
+    "rupee": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: ரூபா",
+      "english": "Nagapattinam Tamil: rupee",
+      "description": "nan"
+    },
+    "kilo": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: கிலோ",
+      "english": "Nagapattinam Tamil: kilo",
+      "description": "nan"
+    },
+    "pottu": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: பாக்கெட்",
+      "english": "Nagapattinam Tamil: packet",
+      "description": "nan"
+    },
+    "thatha": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: தாத்தா",
+      "english": "Nagapattinam Tamil: grandpa",
+      "description": "nan"
+    },
+    "paati": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: பாட்டி",
+      "english": "Nagapattinam Tamil: grandma",
+      "description": "nan"
+    },
+    "kuzhandhai": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: குழந்தை",
+      "english": "Nagapattinam Tamil: child",
+      "description": "nan"
+    },
+    "santhosham": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: சந்தோஷம்",
+      "english": "Nagapattinam Tamil: happiness",
+      "description": "nan"
+    },
+    "valimai": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: வலி",
+      "english": "Nagapattinam Tamil: pain",
+      "description": "nan"
+    },
+    "bhayam": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: பயம்",
+      "english": "Nagapattinam Tamil: fear",
+      "description": "nan"
+    },
+    "kaalam": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: காலம்",
+      "english": "Nagapattinam Tamil: time",
+      "description": "nan"
+    },
+    "velai": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: வேலை",
+      "english": "Nagapattinam Tamil: work",
+      "description": "nan"
+    },
+    "rest": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: ஓய்வு",
+      "english": "Nagapattinam Tamil: rest",
+      "description": "nan"
+    },
+    "sambar": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: சாம்பார்",
+      "english": "Nagapattinam Tamil: sambar",
+      "description": "nan"
+    },
+    "rasam": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: ரசம்",
+      "english": "Nagapattinam Tamil: rasam",
+      "description": "nan"
+    },
+    "koolu": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: கூல்",
+      "english": "Nagapattinam Tamil: fish curry",
+      "description": "nan"
+    },
+    "white": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: வெள்ளை",
+      "english": "Nagapattinam Tamil: white",
+      "description": "nan"
+    },
+    "black": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: கருப்பு",
+      "english": "Nagapattinam Tamil: black",
+      "description": "nan"
+    },
+    "red": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: சிவப்பு",
+      "english": "Nagapattinam Tamil: red",
+      "description": "nan"
+    },
+    "onnu": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: ஒன்னு",
+      "english": "Nagapattinam Tamil: one",
+      "description": "nan"
+    },
+    "randu": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: ரெண்டு",
+      "english": "Nagapattinam Tamil: two",
+      "description": "nan"
+    },
+    "moonnu": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: மூணு",
+      "english": "Nagapattinam Tamil: three",
+      "description": "nan"
+    },
+    "velankanni": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: வேலங்கன்னி",
+      "english": "Nagapattinam Tamil: Velankanni",
+      "description": "nan"
+    },
+    "nagore": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: நகூர்",
+      "english": "Nagapattinam Tamil: Nagore",
+      "description": "nan"
+    },
+    "thalainayar": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: தலையனாய்க்கல்",
+      "english": "Nagapattinam Tamil: Thalainayir",
+      "description": "nan"
+    },
+    "mazhai": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: மழை",
+      "english": "Nagapattinam Tamil: rain",
+      "description": "nan"
+    },
+    "sooriya": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: சூரியன்",
+      "english": "Nagapattinam Tamil: sun",
+      "description": "nan"
+    },
+    "kaattru": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: காற்று",
+      "english": "Nagapattinam Tamil: wind",
+      "description": "nan"
+    },
+    "maan": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: மான்",
+      "english": "Nagapattinam Tamil: deer",
+      "description": "nan"
+    },
+    "puli": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: புலி",
+      "english": "Nagapattinam Tamil: tiger",
+      "description": "nan"
+    },
+    "aandhai": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: ஆந்தை",
+      "english": "Nagapattinam Tamil: snake",
+      "description": "nan"
+    },
+    "kai": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: கை",
+      "english": "Nagapattinam Tamil: hand",
+      "description": "nan"
+    },
+    "kaal": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: கால்",
+      "english": "Nagapattinam Tamil: leg",
+      "description": "nan"
+    },
+    "naakku": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: நாக்கு",
+      "english": "Nagapattinam Tamil: tongue",
+      "description": "nan"
+    },
+    "veshti": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: வேட்டி",
+      "english": "Nagapattinam Tamil: dhoti",
+      "description": "nan"
+    },
+    "saree": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: சேலை",
+      "english": "Nagapattinam Tamil: saree",
+      "description": "nan"
+    },
+    "shirt": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: சட்டை",
+      "english": "Nagapattinam Tamil: shirt",
+      "description": "nan"
+    },
+    "kathi": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: கத்தி",
+      "english": "Nagapattinam Tamil: knife",
+      "description": "nan"
+    },
+    "kuduvai": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: குடுவை",
+      "english": "Nagapattinam Tamil: sickle",
+      "description": "nan"
+    },
+    "mannvaai": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: மண்ண்வாய்",
+      "english": "Nagapattinam Tamil: spade",
+      "description": "nan"
+    },
+    "cycle": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: சைக்கிள்",
+      "english": "Nagapattinam Tamil: cycle",
+      "description": "nan"
+    },
+    "bus": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: பஸ்",
+      "english": "Nagapattinam Tamil: bus",
+      "description": "nan"
+    },
+    "train": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: ட்ரைன்",
+      "english": "Nagapattinam Tamil: train",
+      "description": "nan"
+    },
+    "padam": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: படம்",
+      "english": "Nagapattinam Tamil: study",
+      "description": "nan"
+    },
+    "master": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: மாஸ்டர்",
+      "english": "Nagapattinam Tamil: teacher",
+      "description": "nan"
+    },
+    "exam": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: எக்ஸாம்",
+      "english": "Nagapattinam Tamil: exam",
+      "description": "nan"
+    },
+    "vaidyam": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: மருந்து",
+      "english": "Nagapattinam Tamil: medicine",
+      "description": "nan"
+    },
+    "doctor": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: டாக்டர்",
+      "english": "Nagapattinam Tamil: doctor",
+      "description": "nan"
+    },
+    "hospital": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: ஆஸ்பத்திரி",
+      "english": "Nagapattinam Tamil: hospital",
+      "description": "nan"
+    },
+    "market": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: சந்தை",
+      "english": "Nagapattinam Tamil: market",
+      "description": "nan"
+    },
+    "shop": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: கடை",
+      "english": "Nagapattinam Tamil: shop",
+      "description": "nan"
+    },
+    "road": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: தெரு",
+      "english": "Nagapattinam Tamil: street",
+      "description": "nan"
+    },
+    "house": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: வீடு",
+      "english": "Nagapattinam Tamil: house",
+      "description": "nan"
+    },
+    "door": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: தாழ்வார்த்தகம்",
+      "english": "Nagapattinam Tamil: door",
+      "description": "nan"
+    },
+    "window": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: ஜன்னல்",
+      "english": "Nagapattinam Tamil: window",
+      "description": "nan"
+    },
+    "light": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: விளக்கு",
+      "english": "Nagapattinam Tamil: light",
+      "description": "nan"
+    },
+    "fan": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: ஃபேன்",
+      "english": "Nagapattinam Tamil: fan",
+      "description": "nan"
+    },
+    "tv": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: டிவி",
+      "english": "Nagapattinam Tamil: TV",
+      "description": "nan"
+    },
+    "radio": {
+      "tamil": "நாகப்பட்டினம் தமிழ்: ரேடியோ",
+      "english": "Nagapattinam Tamil: radio",
+      "description": "nan"
+    }
+  },
+  "Namakkal": {
+    "da": {
+      "tamil": "namakkal_tamil_da",
+      "english": "Namakkal Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "namakkal_tamil_ayya",
+      "english": "Namakkal Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "namakkal_tamil_machan",
+      "english": "Namakkal Tamil: buddy",
+      "description": "nan"
+    },
+    "town": {
+      "tamil": "namakkal_tamil_town",
+      "english": "Namakkal Tamil: town",
+      "description": "nan"
+    },
+    "industry": {
+      "tamil": "namakkal_tamil_industry",
+      "english": "Namakkal Tamil: industry",
+      "description": "nan"
+    }
+  },
+  "Nilgiris": {
+    "da": {
+      "tamil": "nilgiris_tamil_da",
+      "english": "Nilgiris Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "nilgiris_tamil_ayya",
+      "english": "Nilgiris Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "nilgiris_tamil_machan",
+      "english": "Nilgiris Tamil: buddy",
+      "description": "nan"
+    },
+    "mountain": {
+      "tamil": "nilgiris_tamil_mountain",
+      "english": "Nilgiris Tamil: mountain",
+      "description": "nan"
+    },
+    "cool": {
+      "tamil": "nilgiris_tamil_cool",
+      "english": "Nilgiris Tamil: cool",
+      "description": "nan"
+    }
+  },
+  "Perambalur": {
+    "da": {
+      "tamil": "perambalur_da",
+      "english": "Perambalur Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "perambalur_ayya",
+      "english": "Perambalur Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "perambalur_machan",
+      "english": "Perambalur Tamil: buddy",
+      "description": "nan"
+    },
+    "rice": {
+      "tamil": "perambalur_rice",
+      "english": "Perambalur Tamil: rice",
+      "description": "nan"
+    },
+    "agriculture": {
+      "tamil": "perambalur_agriculture",
+      "english": "Perambalur Tamil: agriculture",
+      "description": "nan"
+    }
+  },
+  "Pudukottai": {
+    "da": {
+      "tamil": "pudukottai_da",
+      "english": "Pudukottai Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "pudukottai_ayya",
+      "english": "Pudukottai Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "pudukottai_machan",
+      "english": "Pudukottai Tamil: buddy",
+      "description": "nan"
+    },
+    "temple": {
+      "tamil": "pudukottai_temple",
+      "english": "Pudukottai Tamil: temple",
+      "description": "nan"
+    },
+    "festival": {
+      "tamil": "pudukottai_festival",
+      "english": "Pudukottai Tamil: festival",
+      "description": "nan"
+    }
+  },
+  "Ramanathapuram": {
+    "da": {
+      "tamil": "ramanathapuram_da",
+      "english": "Ramanathapuram Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "ramanathapuram_ayya",
+      "english": "Ramanathapuram Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "ramanathapuram_machan",
+      "english": "Ramanathapuram Tamil: buddy",
+      "description": "nan"
+    },
+    "salt": {
+      "tamil": "ramanathapuram_salt",
+      "english": "Ramanathapuram Tamil: salt",
+      "description": "nan"
+    },
+    "ocean": {
+      "tamil": "ramanathapuram_ocean",
+      "english": "Ramanathapuram Tamil: ocean",
+      "description": "nan"
+    }
+  },
+  "Ranipet": {
+    "da": {
+      "tamil": "ranipet_da",
+      "english": "Ranipet Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "ranipet_ayya",
+      "english": "Ranipet Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "ranipet_machan",
+      "english": "Ranipet Tamil: buddy",
+      "description": "nan"
+    },
+    "industrial": {
+      "tamil": "ranipet_industrial",
+      "english": "Ranipet Tamil: industrial",
+      "description": "nan"
+    },
+    "town": {
+      "tamil": "ranipet_town",
+      "english": "Ranipet Tamil: town",
+      "description": "nan"
+    }
+  },
+  "Salem": {
+    "da": {
+      "tamil": "salem_da",
+      "english": "Salem Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "salem_ayya",
+      "english": "Salem Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "salem_machan",
+      "english": "Salem Tamil: buddy",
+      "description": "nan"
+    },
+    "textile": {
+      "tamil": "salem_textile",
+      "english": "Salem Tamil: textile",
+      "description": "nan"
+    },
+    "city": {
+      "tamil": "salem_city",
+      "english": "Salem Tamil: city",
+      "description": "nan"
+    }
+  },
+  "Sivaganga": {
+    "da": {
+      "tamil": "sivaganga_da",
+      "english": "Sivaganga Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "sivaganga_ayya",
+      "english": "Sivaganga Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "sivaganga_machan",
+      "english": "Sivaganga Tamil: buddy",
+      "description": "nan"
+    },
+    "agriculture": {
+      "tamil": "sivaganga_agriculture",
+      "english": "Sivaganga Tamil: agriculture",
+      "description": "nan"
+    },
+    "farming": {
+      "tamil": "sivaganga_farming",
+      "english": "Sivaganga Tamil: farming",
+      "description": "nan"
+    }
+  },
+  "Tenkasi": {
+    "da": {
+      "tamil": "tenkasi_da",
+      "english": "Tenkasi Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "tenkasi_ayya",
+      "english": "Tenkasi Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "tenkasi_machan",
+      "english": "Tenkasi Tamil: buddy",
+      "description": "nan"
+    },
+    "spice": {
+      "tamil": "tenkasi_spice",
+      "english": "Tenkasi Tamil: spice",
+      "description": "nan"
+    },
+    "temple": {
+      "tamil": "tenkasi_temple",
+      "english": "Tenkasi Tamil: temple",
+      "description": "nan"
+    }
+  },
+  "Thanjavur": {
+    "da": {
+      "tamil": "thanjavur_da",
+      "english": "Thanjavur Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "thanjavur_ayya",
+      "english": "Thanjavur Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "thanjavur_machan",
+      "english": "Thanjavur Tamil: buddy",
+      "description": "nan"
+    },
+    "rice": {
+      "tamil": "thanjavur_rice",
+      "english": "Thanjavur Tamil: rice",
+      "description": "nan"
+    },
+    "temple": {
+      "tamil": "thanjavur_temple",
+      "english": "Thanjavur Tamil: temple",
+      "description": "nan"
+    }
+  },
+  "Theni": {
+    "da": {
+      "tamil": "theni_da",
+      "english": "Theni Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "theni_ayya",
+      "english": "Theni Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "theni_machan",
+      "english": "Theni Tamil: buddy",
+      "description": "nan"
+    },
+    "tea": {
+      "tamil": "theni_tea",
+      "english": "Theni Tamil: tea",
+      "description": "nan"
+    },
+    "hill": {
+      "tamil": "theni_hill",
+      "english": "Theni Tamil: hill",
+      "description": "nan"
+    }
+  },
+  "Thoothukudi": {
+    "da": {
+      "tamil": "thoothukudi_da",
+      "english": "Thoothukudi Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "thoothukudi_ayya",
+      "english": "Thoothukudi Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "thoothukudi_machan",
+      "english": "Thoothukudi Tamil: buddy",
+      "description": "nan"
+    },
+    "salt": {
+      "tamil": "thoothukudi_salt",
+      "english": "Thoothukudi Tamil: salt",
+      "description": "nan"
+    },
+    "port": {
+      "tamil": "thoothukudi_port",
+      "english": "Thoothukudi Tamil: port",
+      "description": "nan"
+    }
+  },
+  "Tiruchirappalli": {
+    "da": {
+      "tamil": "tiruchirappalli_da",
+      "english": "Tiruchirappalli Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "tiruchirappalli_ayya",
+      "english": "Tiruchirappalli Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "tiruchirappalli_machan",
+      "english": "Tiruchirappalli Tamil: buddy",
+      "description": "nan"
+    },
+    "temple": {
+      "tamil": "tiruchirappalli_temple",
+      "english": "Tiruchirappalli Tamil: temple",
+      "description": "nan"
+    },
+    "city": {
+      "tamil": "tiruchirappalli_city",
+      "english": "Tiruchirappalli Tamil: city",
+      "description": "nan"
+    }
+  },
+  "Tirunelveli": {
+    "da": {
+      "tamil": "tirunelveli_da",
+      "english": "Tirunelveli Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "tirunelveli_ayya",
+      "english": "Tirunelveli Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "tirunelveli_machan",
+      "english": "Tirunelveli Tamil: buddy",
+      "description": "nan"
+    },
+    "temple": {
+      "tamil": "tirunelveli_temple",
+      "english": "Tirunelveli Tamil: temple",
+      "description": "nan"
+    },
+    "spice": {
+      "tamil": "tirunelveli_spice",
+      "english": "Tirunelveli Tamil: spice",
+      "description": "nan"
+    }
+  },
+  "Tirupattur": {
+    "da": {
+      "tamil": "tirupattur_da",
+      "english": "Tirupattur Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "tirupattur_ayya",
+      "english": "Tirupattur Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "tirupattur_machan",
+      "english": "Tirupattur Tamil: buddy",
+      "description": "nan"
+    },
+    "temple": {
+      "tamil": "tirupattur_temple",
+      "english": "Tirupattur Tamil: temple",
+      "description": "nan"
+    },
+    "town": {
+      "tamil": "tirupattur_town",
+      "english": "Tirupattur Tamil: town",
+      "description": "nan"
+    }
+  },
+  "Tiruppur": {
+    "da": {
+      "tamil": "tiruppur_da",
+      "english": "Tiruppur Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "tiruppur_ayya",
+      "english": "Tiruppur Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "tiruppur_machan",
+      "english": "Tiruppur Tamil: buddy",
+      "description": "nan"
+    },
+    "textile": {
+      "tamil": "tiruppur_textile",
+      "english": "Tiruppur Tamil: textile",
+      "description": "nan"
+    },
+    "city": {
+      "tamil": "tiruppur_city",
+      "english": "Tiruppur Tamil: city",
+      "description": "nan"
+    }
+  },
+  "Tiruvallur": {
+    "da": {
+      "tamil": "tiruvallur_da",
+      "english": "Tiruvallur Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "tiruvallur_ayya",
+      "english": "Tiruvallur Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "tiruvallur_machan",
+      "english": "Tiruvallur Tamil: buddy",
+      "description": "nan"
+    },
+    "temple": {
+      "tamil": "tiruvallur_temple",
+      "english": "Tiruvallur Tamil: temple",
+      "description": "nan"
+    },
+    "city": {
+      "tamil": "tiruvallur_city",
+      "english": "Tiruvallur Tamil: city",
+      "description": "nan"
+    }
+  },
+  "Tiruvannamalai": {
+    "da": {
+      "tamil": "tiruvannamalai_da",
+      "english": "Tiruvannamalai Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "tiruvannamalai_ayya",
+      "english": "Tiruvannamalai Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "tiruvannamalai_machan",
+      "english": "Tiruvannamalai Tamil: buddy",
+      "description": "nan"
+    },
+    "temple": {
+      "tamil": "tiruvannamalai_temple",
+      "english": "Tiruvannamalai Tamil: temple",
+      "description": "nan"
+    },
+    "pilgrimage": {
+      "tamil": "tiruvannamalai_pilgrimage",
+      "english": "Tiruvannamalai Tamil: pilgrimage",
+      "description": "nan"
+    }
+  },
+  "Tiruvarur": {
+    "da": {
+      "tamil": "tiruvarur_da",
+      "english": "Tiruvarur Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "tiruvarur_ayya",
+      "english": "Tiruvarur Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "tiruvarur_machan",
+      "english": "Tiruvarur Tamil: buddy",
+      "description": "nan"
+    },
+    "temple": {
+      "tamil": "tiruvarur_temple",
+      "english": "Tiruvarur Tamil: temple",
+      "description": "nan"
+    },
+    "city": {
+      "tamil": "tiruvarur_city",
+      "english": "Tiruvarur Tamil: city",
+      "description": "nan"
+    }
+  },
+  "Vellore": {
+    "da": {
+      "tamil": "vellore_da",
+      "english": "Vellore Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "vellore_ayya",
+      "english": "Vellore Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "vellore_machan",
+      "english": "Vellore Tamil: buddy",
+      "description": "nan"
+    },
+    "fort": {
+      "tamil": "vellore_fort",
+      "english": "Vellore Tamil: fort",
+      "description": "nan"
+    },
+    "city": {
+      "tamil": "vellore_city",
+      "english": "Vellore Tamil: city",
+      "description": "nan"
+    }
+  },
+  "Viluppuram": {
+    "da": {
+      "tamil": "viluppuram_da",
+      "english": "Viluppuram Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "viluppuram_ayya",
+      "english": "Viluppuram Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "viluppuram_machan",
+      "english": "Viluppuram Tamil: buddy",
+      "description": "nan"
+    },
+    "agriculture": {
+      "tamil": "viluppuram_agriculture",
+      "english": "Viluppuram Tamil: agriculture",
+      "description": "nan"
+    },
+    "town": {
+      "tamil": "viluppuram_town",
+      "english": "Viluppuram Tamil: town",
+      "description": "nan"
+    }
+  },
+  "Virudhunagar": {
+    "da": {
+      "tamil": "virudhunagar_da",
+      "english": "Virudhunagar Tamil: brother",
+      "description": "nan"
+    },
+    "ayya": {
+      "tamil": "virudhunagar_ayya",
+      "english": "Virudhunagar Tamil: sir",
+      "description": "nan"
+    },
+    "machan": {
+      "tamil": "virudhunagar_machan",
+      "english": "Virudhunagar Tamil: buddy",
+      "description": "nan"
+    },
+    "firecrackers": {
+      "tamil": "virudhunagar_firecrackers",
+      "english": "Virudhunagar Tamil: firecrackers",
+      "description": "nan"
+    },
+    "city": {
+      "tamil": "virudhunagar_city",
+      "english": "Virudhunagar Tamil: city",
+      "description": "nan"
+    }
+  }
+}
